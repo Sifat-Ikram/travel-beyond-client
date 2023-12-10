@@ -1,0 +1,484 @@
+[
+    {
+        "id": 1,
+        "title": "Dhaka",
+        "image": "path/to/dhaka_image.jpg",
+        "places": [
+            {
+                "id": 1,
+                "title": "Lalbagh Fort",
+                "image": "path/to/lalbagh_fort_image.jpg",
+                "description": "A historic fort in Dhaka, known for its architectural significance and Mughal design."
+            },
+            {
+                "id": 2,
+                "title": "Ahsan Manzil",
+                "image": "path/to/ahsan_manzil_image.jpg",
+                "description": "The Pink Palace, a major historical and architectural landmark in Dhaka."
+            },
+            {
+                "id": 3,
+                "title": "Jatiyo Sangsad Bhaban (National Parliament House)",
+                "image": "path/to/jatiyo_sangsad_bhaban_image.jpg",
+                "description": "An iconic modern architectural marvel and the seat of the national parliament of Bangladesh."
+            },
+            {
+                "id": 4,
+                "title": "Dhakeshwari Temple",
+                "image": "path/to/dhakeshwari_temple_image.jpg",
+                "description": "A Hindu temple in Dhaka, dedicated to the goddess Dhakeshwari."
+            },
+            {
+                "id": 5,
+                "title": "National Museum of Bangladesh",
+                "image": "path/to/national_museum_image.jpg",
+                "description": "A museum showcasing the rich cultural heritage and history of Bangladesh."
+            },
+            {
+                "id": 6,
+                "title": "Bangabandhu Memorial Museum",
+                "image": "path/to/bangabandhu_memorial_museum_image.jpg",
+                "description": "A museum dedicated to the life and legacy of the founding leader of Bangladesh, Sheikh Mujibur Rahman."
+            },
+            {
+                "id": 7,
+                "title": "Dhanmondi Lake",
+                "image": "path/to/dhanmondi_lake_image.jpg",
+                "description": "A popular lake in the Dhanmondi area, offering a serene environment for relaxation."
+            },
+            {
+                "id": 8,
+                "title": "Shahid Minar",
+                "image": "path/to/shahid_minar_image.jpg",
+                "description": "A monument built to commemorate the martyrs of the Bengali Language Movement."
+            },
+            {
+                "id": 9,
+                "title": "Sonargaon",
+                "image": "path/to/sonargaon_image.jpg",
+                "description": "A historic town known for its ancient architecture, including the Folk Art and Crafts Museum."
+            },
+            {
+                "id": 10,
+                "title": "Bangladesh National Zoo",
+                "image": "path/to/bangladesh_national_zoo_image.jpg",
+                "description": "A large zoo in Mirpur, Dhaka, with a diverse collection of wildlife."
+            },
+            {
+                "id": 11,
+                "title": "Hatirjheel",
+                "image": "path/to/hatirjheel_image.jpg",
+                "description": "A popular recreational area with a lake, walkways, and green spaces in Dhaka."
+            },
+            {
+                "id": 12,
+                "title": "Liberation War Museum",
+                "image": "path/to/liberation_war_museum_image.jpg",
+                "description": "A museum dedicated to the Bangladesh Liberation War and its historical artifacts."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Chittagong",
+        "image": "path/to/chittagong_image.jpg",
+        "places": [
+            {
+                "id": 1,
+                "title": "Cox's Bazar",
+                "image": "path/to/coxs_bazar_image.jpg",
+                "description": "Home to the world's longest natural sea beach, known for its pristine sandy shores and vibrant atmosphere."
+            },
+            {
+                "id": 2,
+                "title": "Alutila Cave",
+                "image": "path/to/himchari_national_park_image.jpg",
+                "description": "A national park near Cox's Bazar, known for its diverse flora and fauna, including wild elephants."
+            },
+            {
+                "id": 3,
+                "title": "Nilgiri",
+                "image": "path/to/inani_beach_image.jpg",
+                "description": "A tranquil beach near Cox's Bazar with golden sands and clear blue waters."
+            },
+            {
+                "id": 4,
+                "title": "Saint Martin's Island",
+                "image": "path/to/saint_martins_island_image.jpg",
+                "description": "A coral island in the Bay of Bengal, known for its pristine beaches and vibrant marine life."
+            },
+            {
+                "id": 5,
+                "title": "Sajek Valley",
+                "image": "path/to/sajek_valley_image.jpg",
+                "description": "A picturesque valley in the Chittagong Hill Tracts, offering stunning landscapes and indigenous culture."
+            },
+            {
+                "id": 6,
+                "title": "Patenga Sea Beach",
+                "image": "path/to/patenga_sea_beach_image.jpg",
+                "description": "A popular beach in Chittagong known for its vibrant atmosphere and scenic views."
+            },
+            {
+                "id": 7,
+                "title": "Chimbuk Hill",
+                "image": "path/to/chimbuk_hill_image.jpg",
+                "description": "The highest peak in Bangladesh, located in the Bandarban district, offering panoramic views of the surrounding hills."
+            },
+            {
+                "id": 8,
+                "title": "Boga Lake",
+                "image": "path/to/boga_lake_image.jpg",
+                "description": "A high-altitude lake in the Bandarban district, surrounded by lush greenery and hills."
+            },
+            {
+                "id": 9,
+                "title": "Chittagong Zoo",
+                "image": "path/to/boga_lake_image.jpg",
+                "description": "A high-altitude lake in the Bandarban district, surrounded by lush greenery and hills."
+            },
+            {
+                "id": 10,
+                "title": "Nilachol",
+                "image": "path/to/boga_lake_image.jpg",
+                "description": "A high-altitude lake in the Bandarban district, surrounded by lush greenery and hills."
+            },
+            {
+                "id": 11,
+                "title": "Thanchi",
+                "image": "path/to/boga_lake_image.jpg",
+                "description": "A high-altitude lake in the Bandarban district, surrounded by lush greenery and hills."
+            },
+            {
+                "id": 12,
+                "title": "Foy's Lake",
+                "image": "path/to/foys_lake_image.jpg",
+                "description": "A scenic lake near Chittagong city, offering boat rides and recreational activities."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Rajshahi",
+        "image": "path/to/rajshahi_image.jpg",
+        "places": [
+            {
+                "id": 1,
+                "title": "Varendra Research Museum",
+                "image": "path/to/varendra_research_museum_image.jpg",
+                "description": "A museum in Rajshahi housing important collections of ancient sculptures, coins, and artifacts."
+            },
+            {
+                "id": 2,
+                "title": "Padma River",
+                "image": "path/to/padma_river_image.jpg",
+                "description": "One of the major rivers in Bangladesh, offering beautiful views and recreational activities."
+            },
+            {
+                "id": 3,
+                "title": "Puthia Temple Complex",
+                "image": "path/to/puthia_temple_complex_image.jpg",
+                "description": "A cluster of historically significant Hindu temples, including the Shiva Temple and the Jagannath Temple."
+            },
+            {
+                "id": 4,
+                "title": "Barendra Museum",
+                "image": "path/to/barendra_museum_image.jpg",
+                "description": "A museum in Rajshahi known for its archaeological and historical exhibits."
+            },
+            {
+                "id": 5,
+                "title": "Mahasthangarh",
+                "image": "path/to/mahasthangarh_image.jpg",
+                "description": "An ancient archaeological site near Bogura, believed to be the oldest city in Bangladesh."
+            },
+            {
+                "id": 6,
+                "title": "Sona Mosque",
+                "image": "path/to/sona_mosque_image.jpg",
+                "description": "A historic mosque in Chapai Nawabganj known for its impressive architecture."
+            },
+            {
+                "id": 7,
+                "title": "Bagha Mosque",
+                "image": "path/to/bagha_mosque_image.jpg",
+                "description": "A mosque in Rajshahi known for its terracotta style of architecture."
+            },
+            {
+                "id": 8,
+                "title": "Bara Kuthi",
+                "image": "path/to/bara_kuthi_image.jpg",
+                "description": "A historical site in Rajshahi that served as a residence for European indigo planters."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Khulna",
+        "image": "path/to/khulna_image.jpg",
+        "places": [
+            {
+                "id": 1,
+                "title": "Sundarbans Mangrove Forest",
+                "image": "path/to/sundarbans_image.jpg",
+                "description": "The largest mangrove forest in the world, home to diverse wildlife including the Bengal tiger."
+            },
+            {
+                "id": 2,
+                "title": "Bagerhat Sixty Dome Mosque",
+                "image": "path/to/sixty_dome_mosque_image.jpg",
+                "description": "A UNESCO World Heritage Site, featuring the historic Sixty Dome Mosque."
+            },
+            {
+                "id": 3,
+                "title": "Kuakata Sea Beach",
+                "image": "path/to/kuakata_sea_beach_image.jpg",
+                "description": "Known as the 'Daughter of the Sea,' Kuakata offers a panoramic view of both the sunrise and sunset over the Bay of Bengal."
+            },
+            {
+                "id": 4,
+                "title": "Mongla Port",
+                "image": "path/to/mongla_port_image.jpg",
+                "description": "A major seaport in the southwestern part of Bangladesh."
+            },
+            {
+                "id": 5,
+                "title": "Khan Jahan Ali Bridge",
+                "image": "path/to/khan_jahan_ali_bridge_image.jpg",
+                "description": "A prominent bridge connecting Khulna and Bagerhat."
+            },
+            {
+                "id": 6,
+                "title": "Ratnodweep Resort",
+                "image": "path/to/ratnodweep_resort_image.jpg",
+                "description": "A resort with scenic views located in the Bagerhat district."
+            },
+            {
+                "id": 7,
+                "title": "Lebur Char Beach",
+                "image": "path/to/lebur_char_beach_image.jpg",
+                "description": "A tranquil beach with golden sands and clear blue waters."
+            },
+            {
+                "id": 8,
+                "title": "Digha Sea Beach",
+                "image": "path/to/digha_sea_beach_image.jpg",
+                "description": "A popular sea beach in Khulna known for its serene atmosphere."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Barisal",
+        "image": "path/to/barisal_image.jpg",
+        "places": [
+            {
+                "id": 1,
+                "title": "Lebur Char",
+                "image": "path/to/lebur_char_image.jpg",
+                "description": "A serene island known for its natural beauty and tranquility."
+            },
+            {
+                "id": 2,
+                "title": "Durga Sagar",
+                "image": "path/to/durga_sagar_image.jpg",
+                "description": "One of the largest ponds in southern Bangladesh, surrounded by greenery."
+            },
+            {
+                "id": 3,
+                "title": "Kuakata",
+                "image": "path/to/kuakata_image.jpg",
+                "description": "Known as the 'Daughter of the Sea,' Kuakata offers a panoramic view of both the sunrise and sunset over the Bay of Bengal."
+            },
+            {
+                "id": 4,
+                "title": "Fatrar Char",
+                "image": "path/to/fatrar_char_image.jpg",
+                "description": "An island with unique landscapes and diverse ecosystems."
+            },
+            {
+                "id": 5,
+                "title": "Guthia Mosque",
+                "image": "path/to/guthia_mosque_image.jpg",
+                "description": "A historical mosque known for its architectural significance."
+            },
+            {
+                "id": 6,
+                "title": "Lebur Char Beach",
+                "image": "path/to/lebur_char_beach_image.jpg",
+                "description": "A tranquil beach with golden sands and clear blue waters."
+            },
+            {
+                "id": 7,
+                "title": "Fatrar Char Beach",
+                "image": "path/to/fatrar_char_beach_image.jpg",
+                "description": "A serene beach on Fatrar Char island, offering a peaceful retreat."
+            },
+            {
+                "id": 8,
+                "title": "Lebur Char Mangrove Forest",
+                "image": "path/to/lebur_char_mangrove_forest_image.jpg",
+                "description": "Explore the rich biodiversity of the mangrove forest on Lebur Char island."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Sylhet",
+        "image": "path/to/sylhet_image.jpg",
+        "places": [
+            {
+                "id": 1,
+                "title": "Ratargul Swamp Forest",
+                "image": "path/to/ratargul_swamp_forest_image.jpg",
+                "description": "The only swamp forest in Bangladesh, known for its natural beauty and biodiversity."
+            },
+            {
+                "id": 2,
+                "title": "Jaflong",
+                "image": "path/to/jaflong_image.jpg",
+                "description": "A scenic area with tea gardens, hills, and the Dawki River, known for its picturesque landscapes."
+            },
+            {
+                "id": 3,
+                "title": "Lawachara National Park",
+                "image": "path/to/lawachara_national_park_image.jpg",
+                "description": "A biodiversity hotspot with various species of flora and fauna, including the endangered hoolock gibbons."
+            },
+            {
+                "id": 4,
+                "title": "Lalakhal",
+                "image": "path/to/lalakhal_image.jpg",
+                "description": "A serene river with crystal-clear blue water, surrounded by greenery and hills."
+            },
+            {
+                "id": 5,
+                "title": "Rajkandi Reserve Forest",
+                "image": "path/to/rajkandi_reserve_forest_image.jpg",
+                "description": "A reserve forest with diverse wildlife and natural landscapes."
+            },
+            {
+                "id": 6,
+                "title": "Srimangal",
+                "image": "path/to/srimangal_image.jpg",
+                "description": "Known as the 'Tea Capital of Bangladesh,' Srimangal is famous for its tea gardens and the Lawachara National Park."
+            },
+            {
+                "id": 7,
+                "title": "Madhabkunda Waterfall",
+                "image": "path/to/madhabkunda_waterfall_image.jpg",
+                "description": "One of the largest waterfalls in Bangladesh, surrounded by lush greenery."
+            },
+            {
+                "id": 8,
+                "title": "Bisnakandi",
+                "image": "path/to/bisnakandi_image.jpg",
+                "description": "A scenic area with hills, rivers, and stone quarries, offering breathtaking views."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Rangpur",
+        "image": "path/to/rangpur_image.jpg",
+        "places": [
+            {
+                "id": 1,
+                "title": "Tajhat Palace",
+                "image": "path/to/tajhat_palace_image.jpg",
+                "description": "Historical palace with impressive architecture."
+            },
+            {
+                "id": 2,
+                "title": "Ramsagar Park",
+                "image": "path/to/kellabond_mosque_image.jpg",
+                "description": "Ancient mosque known for its cultural significance."
+            },
+            {
+                "id": 3,
+                "title": "Rangpur Zoo",
+                "image": "path/to/rangpur_zoo_image.jpg",
+                "description": "Zoo with a variety of wildlife and recreational areas."
+            },
+            {
+                "id": 4,
+                "title": "Dinajpur Museum",
+                "image": "path/to/rangpur_city_park_image.jpg",
+                "description": "City park with lush greenery and recreational facilities."
+            },
+            {
+                "id": 5,
+                "title": "Dinajpur Rajbari",
+                "image": "path/to/carmichael_college_image.jpg",
+                "description": "Historic college with a significant academic legacy."
+            },
+            {
+                "id": 6,
+                "title": "Kantaji Temple",
+                "image": "path/to/tajpur_jamindar_bari_image.jpg",
+                "description": "Historical residence showcasing traditional architecture."
+            },
+            {
+                "id": 7,
+                "title": "Rangpur Museum",
+                "image": "path/to/rangpur_museum_image.jpg",
+                "description": "Museum featuring artifacts and exhibits from the region's history."
+            },
+            {
+                "id": 8,
+                "title": "Banasree Eco Park",
+                "image": "path/to/rangpur_dairy_farm_image.jpg",
+                "description": "Dairy farm with modern facilities and agricultural practices."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Mymensingh",
+        "image": "path/to/mymensingh_image.jpg",
+        "places": [
+            {
+                "id": 1,
+                "title": "Birishiri",
+                "image": "path/to/birishiri_image.jpg",
+                "description": "A picturesque destination with Durgapur Dam and Shomeshwari River."
+            },
+            {
+                "id": 2,
+                "title": "Akua Waterfall",
+                "image": "path/to/akua_waterfall_image.jpg",
+                "description": "A beautiful waterfall in the heart of Mymensingh."
+            },
+            {
+                "id": 3,
+                "title": "Brahmaputra River",
+                "image": "path/to/brahmaputra_river_image.jpg",
+                "description": "Scenic spots along the banks of the Brahmaputra River."
+            },
+            {
+                "id": 4,
+                "title": "Agricultural University Campus",
+                "image": "path/to/agricultural_university_image.jpg",
+                "description": "Green campus known for its academic excellence."
+            },
+            {
+                "id": 5,
+                "title": "Shashi Lodge",
+                "image": "path/to/shashi_lodge_image.jpg",
+                "description": "A historic lodge with architectural significance."
+            },
+            {
+                "id": 6,
+                "title": "Muktagacha Rajbari",
+                "image": "path/to/muktagacha_rajbari_image.jpg",
+                "description": "Historical palace with cultural heritage."
+            },
+            {
+                "id": 7,
+                "title": "Mymensingh Museum",
+                "image": "path/to/mymensingh_museum_image.jpg",
+                "description": "Museum with artifacts and exhibits related to the region."
+            }
+        ]
+    }
+]
