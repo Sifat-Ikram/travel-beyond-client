@@ -2,78 +2,72 @@
     {
         "id": 1,
         "title": "Dhaka",
-        "image": "path/to/dhaka_image.jpg",
+        "image": "https://i.ibb.co/dW2bSd2/1200px-1.jpg",
         "places": [
             {
                 "id": 1,
                 "title": "Lalbagh Fort",
-                "image": "path/to/lalbagh_fort_image.jpg",
-                "description": "A historic fort in Dhaka, known for its architectural significance and Mughal design."
+                "image": "https://i.ibb.co/9sRfGtg/63a2f6d14bf52f127d2eb792f8df02fc-lalbagh-fort.jpg",
+                "description": "Lalbagh Fort (also Fort Aurangabad) is an incomplete 17th-century Mughal fort complex that stands before the Buriganga River in the southwestern part of Dhaka, Bangladesh. The construction was started in 1678 AD by Mughal Subahdar Muhammad Azam Shah who was the son of Emperor Aurangzeb and later emperor himself. His successor, Shaista Khan, did not continue the work, though he stayed in Dhaka up to 1688."
             },
             {
                 "id": 2,
                 "title": "Ahsan Manzil",
-                "image": "path/to/ahsan_manzil_image.jpg",
-                "description": "The Pink Palace, a major historical and architectural landmark in Dhaka."
+                "image": "https://i.ibb.co/9HWxc2g/AF1-Qip-PL0-IYxiirrm-P4-REY5-ODTn-VZOtm6-BNc6-SWPWAXi-s680-w680-h510.jpg",
+                "description": "The Pink Palace, a major historical and architectural landmark in Dhaka. Ahsan Manzil (Ahsan Monjil) was the official residential palace and seat of the Nawab of Dhaka. The building is situated at Kumartoli along the banks of the Buriganga River in Dhaka, Bangladesh. Construction was started in 1859 and was completed in 1872. It was constructed in the Indo-Saracenic Revival architecture. It has been designated as a national museum."
             },
             {
                 "id": 3,
-                "title": "Jatiyo Sangsad Bhaban (National Parliament House)",
-                "image": "path/to/jatiyo_sangsad_bhaban_image.jpg",
-                "description": "An iconic modern architectural marvel and the seat of the national parliament of Bangladesh."
+                "title": "Jatiyo Sangsad Bhaban",
+                "image": "https://i.ibb.co/GJ889MK/AF1-Qip-Ms-QMJNp0n-GOyw-Bkyw-SEs0-Js-E7b0h-SGSmbytjs-A-s680-w680-h510.png",
+                "description": "An iconic modern architectural marvel and the seat of the national parliament of Bangladesh. Jatiya Sangsad Bhaban or National Parliament Building, (Bengali: জাতীয় সংসদ ভবন Jatiyô Sôngsôd Bhôbôn) is the house of the Parliament of Bangladesh, located at Sher-e-Bangla Nagar in the Bangladeshi capital of Dhaka. Designed while the country was still part of Pakistan by architect Louis Kahn, the complex is one of the largest legislative complexes in the world, covering 200 acres."
             },
             {
                 "id": 4,
                 "title": "Dhakeshwari Temple",
-                "image": "path/to/dhakeshwari_temple_image.jpg",
+                "image": "https://i.ibb.co/12bKDMR/dhakeshwari-temple-old-dhaka-four-shiva-768-o.jpg",
                 "description": "A Hindu temple in Dhaka, dedicated to the goddess Dhakeshwari."
             },
             {
                 "id": 5,
                 "title": "National Museum of Bangladesh",
                 "image": "path/to/national_museum_image.jpg",
-                "description": "A museum showcasing the rich cultural heritage and history of Bangladesh."
+                "description": "Dhakeshwari National Temple (Bengali: ঢাকেশ্বরী জাতীয় মন্দির, romanized: Ðhakeshshori Jatio Mondir) is a Hindu temple in Dhaka, Bangladesh. It is state-owned, giving it the distinction of being Bangladesh's 'National Temple'. The name 'Dhakeshwari' 'Goddess of Dhaka'. Since the destruction of Ramna Kali Mandir in 1971 by the Pakistan Army during the Bangladesh Liberation War, the Dhakeshwari Temple has assumed status as the most important Hindu place of worship in Bangladesh.[1] It is also the largest Hindu temple in Bangladesh.[2] This temple is part of the famous Shakti Peethas in Indian Subcontinent. Here the gem of Sati's crown had fallen."
             },
             {
                 "id": 6,
-                "title": "Bangabandhu Memorial Museum",
-                "image": "path/to/bangabandhu_memorial_museum_image.jpg",
-                "description": "A museum dedicated to the life and legacy of the founding leader of Bangladesh, Sheikh Mujibur Rahman."
+                "title": "Dhanmondi Lake",
+                "image": "https://i.ibb.co/vXq3tBK/observerbd-com-1636099378.jpg",
+                "description": "Dhanmondi Lake is a prominent artificial lake located in the Dhanmondi residential area of Dhaka, the capital city of Bangladesh. Created in the 1950s, the lake spans over an area of approximately 40 acres and serves as a popular recreational spot for locals. Surrounded by a picturesque landscape, the lake offers a tranquil environment where visitors can enjoy boat rides, picnics, and leisurely strolls along its scenic shores. The surrounding Dhanmondi area is known for its vibrant community and various amenities, making Dhanmondi Lake a popular destination for residents and tourists seeking a peaceful escape in the heart of Dhaka."
             },
             {
                 "id": 7,
-                "title": "Dhanmondi Lake",
-                "image": "path/to/dhanmondi_lake_image.jpg",
-                "description": "A popular lake in the Dhanmondi area, offering a serene environment for relaxation."
+                "title": "Jatio Shahid Minar",
+                "image": "https://i.ibb.co/F8YHPcH/AF1-Qip-PYMk-Ope-M6h-B-szxvs-ZCZi-HBg-XGcpu-C8y-Oab-Jrt-s680-w680-h510.jpg",
+                "description": "A monument built to commemorate the martyrs of the Bengali Language Movement. Jatio Shahid Minar, also known as the National Martyrs' Monument, is a significant landmark located in Dhaka, Bangladesh. Erected to commemorate the language martyrs who sacrificed their lives during the Language Movement of 1952, the monument stands at the intersection of Dhaka Medical College and University of Dhaka. The Language Movement was a key event in Bangladesh's history, advocating for the recognition of Bengali as the official language"
             },
             {
                 "id": 8,
-                "title": "Shahid Minar",
-                "image": "path/to/shahid_minar_image.jpg",
-                "description": "A monument built to commemorate the martyrs of the Bengali Language Movement."
+                "title": "Panam City",
+                "image": "https://i.ibb.co/D4ffKKb/AF1-Qip-Mdmv76m6vm-YL4v-Ib-x-Pt-Hwb-D5jdx7qb-JAM0-B51-s680-w680-h510.jpg",
+                "description": "Panam City, or Panam Nagar, located in Sonargaon near Dhaka, Bangladesh, is a historic city known for its well-preserved colonial architecture that reflects Mughal and European influences. Once a thriving trading hub, it now stands as an archaeological site, offering visitors a glimpse into its rich past through dilapidated yet captivating structures. The unique blend of architectural styles and the city's historical significance make it a notable attraction for tourists and history enthusiasts."
             },
             {
                 "id": 9,
-                "title": "Sonargaon",
-                "image": "path/to/sonargaon_image.jpg",
-                "description": "A historic town known for its ancient architecture, including the Folk Art and Crafts Museum."
+                "title": "Bangladesh National Zoo",
+                "image": "https://i.ibb.co/b6jSSBm/AF1-Qip-Ok-Aq3g-W2-IJoe-WTCZa704f2m-CQe0-XT01-Xkrcv-LN-s680-w680-h510.jpg",
+                "description": "The Bangladesh National Zoo, located in Dhaka, is a popular wildlife attraction. Established in 1974, the zoo covers a significant area and houses a diverse collection of animals, including native and exotic species. Visitors can explore various exhibits featuring mammals, birds, and reptiles. The zoo aims to promote conservation awareness and education while providing an enjoyable experience for visitors of all ages. It serves as a hub for biodiversity conservation efforts and offers a recreational space for families and nature enthusiasts in the capital city."
             },
             {
                 "id": 10,
-                "title": "Bangladesh National Zoo",
-                "image": "path/to/bangladesh_national_zoo_image.jpg",
-                "description": "A large zoo in Mirpur, Dhaka, with a diverse collection of wildlife."
-            },
-            {
-                "id": 11,
                 "title": "Hatirjheel",
-                "image": "path/to/hatirjheel_image.jpg",
+                "image": "https://i.ibb.co/ncKHXqX/the-best-creation-in.jpg",
                 "description": "A popular recreational area with a lake, walkways, and green spaces in Dhaka."
             },
             {
-                "id": 12,
+                "id": 11,
                 "title": "Liberation War Museum",
-                "image": "path/to/liberation_war_museum_image.jpg",
+                "image": "https://i.ibb.co/Ny2cQRw/newly-built-liberation.jpg",
                 "description": "A museum dedicated to the Bangladesh Liberation War and its historical artifacts."
             }
         ]
@@ -81,78 +75,78 @@
     {
         "id": 2,
         "title": "Chittagong",
-        "image": "path/to/chittagong_image.jpg",
+        "image": "https://i.ibb.co/s9tnjKH/chittagong-port-credit-chittagong-port-2.jpg",
         "places": [
             {
                 "id": 1,
                 "title": "Cox's Bazar",
-                "image": "path/to/coxs_bazar_image.jpg",
+                "image": "https://i.ibb.co/vHHktR5/blogi-JR0-K1s-WVNFzin-GC-l4r3-Ids-VLyx-Zfkr.jpg",
                 "description": "Home to the world's longest natural sea beach, known for its pristine sandy shores and vibrant atmosphere."
             },
             {
                 "id": 2,
                 "title": "Alutila Cave",
-                "image": "path/to/himchari_national_park_image.jpg",
+                "image": "https://i.ibb.co/kyqt096/Alutila-Cave-Khagrachhari.jpg",
                 "description": "A national park near Cox's Bazar, known for its diverse flora and fauna, including wild elephants."
             },
             {
                 "id": 3,
                 "title": "Nilgiri",
-                "image": "path/to/inani_beach_image.jpg",
+                "image": "https://i.ibb.co/4VKc2sL/Nilgiri.jpg",
                 "description": "A tranquil beach near Cox's Bazar with golden sands and clear blue waters."
             },
             {
                 "id": 4,
                 "title": "Saint Martin's Island",
-                "image": "path/to/saint_martins_island_image.jpg",
+                "image": "https://i.ibb.co/9q0PWs5/St-Martins-Island-is-feared-to-be-Coral-less-by-2045.jpg",
                 "description": "A coral island in the Bay of Bengal, known for its pristine beaches and vibrant marine life."
             },
             {
                 "id": 5,
                 "title": "Sajek Valley",
-                "image": "path/to/sajek_valley_image.jpg",
+                "image": "https://i.ibb.co/Y05hYw1/3-Sajek-Resort-Cottage.jpg",
                 "description": "A picturesque valley in the Chittagong Hill Tracts, offering stunning landscapes and indigenous culture."
             },
             {
                 "id": 6,
                 "title": "Patenga Sea Beach",
-                "image": "path/to/patenga_sea_beach_image.jpg",
+                "image": "https://i.ibb.co/NCd94J7/1639194548.jpg",
                 "description": "A popular beach in Chittagong known for its vibrant atmosphere and scenic views."
             },
             {
                 "id": 7,
                 "title": "Chimbuk Hill",
-                "image": "path/to/chimbuk_hill_image.jpg",
+                "image": "https://i.ibb.co/hsNWbx8/1530899921bandarban-banner.jpg",
                 "description": "The highest peak in Bangladesh, located in the Bandarban district, offering panoramic views of the surrounding hills."
             },
             {
                 "id": 8,
                 "title": "Boga Lake",
-                "image": "path/to/boga_lake_image.jpg",
+                "image": "https://i.ibb.co/8gbfxhr/1280x350-bandarban-bogalake-750x350.jpg",
                 "description": "A high-altitude lake in the Bandarban district, surrounded by lush greenery and hills."
             },
             {
                 "id": 9,
                 "title": "Chittagong Zoo",
-                "image": "path/to/boga_lake_image.jpg",
+                "image": "https://i.ibb.co/cxhGYgr/Chittagong-Zoo.jpg",
                 "description": "A high-altitude lake in the Bandarban district, surrounded by lush greenery and hills."
             },
             {
                 "id": 10,
                 "title": "Nilachol",
-                "image": "path/to/boga_lake_image.jpg",
+                "image": "https://i.ibb.co/MR7KYLL/Nilachol-Bandarban-Bangladesh-14.jpg",
                 "description": "A high-altitude lake in the Bandarban district, surrounded by lush greenery and hills."
             },
             {
                 "id": 11,
                 "title": "Thanchi",
-                "image": "path/to/boga_lake_image.jpg",
+                "image": "https://i.ibb.co/qsQvsxY/Bandarban-Ruma-Thanchi.png",
                 "description": "A high-altitude lake in the Bandarban district, surrounded by lush greenery and hills."
             },
             {
                 "id": 12,
                 "title": "Foy's Lake",
-                "image": "path/to/foys_lake_image.jpg",
+                "image": "https://i.ibb.co/FHD2Hgn/0ff3cddb177fd94a0e1b8b6be9ffc96f.jpg",
                 "description": "A scenic lake near Chittagong city, offering boat rides and recreational activities."
             }
         ]
@@ -160,54 +154,48 @@
     {
         "id": 3,
         "title": "Rajshahi",
-        "image": "path/to/rajshahi_image.jpg",
+        "image": "https://i.ibb.co/gZMy6JY/Rajshahi-city-4.jpg",
         "places": [
             {
                 "id": 1,
                 "title": "Varendra Research Museum",
-                "image": "path/to/varendra_research_museum_image.jpg",
+                "image": "https://i.ibb.co/ZYPhgLJ/1668661768.jpg",
                 "description": "A museum in Rajshahi housing important collections of ancient sculptures, coins, and artifacts."
             },
             {
                 "id": 2,
                 "title": "Padma River",
-                "image": "path/to/padma_river_image.jpg",
+                "image": "https://i.ibb.co/6tZRcPm/maxresdefault.jpg",
                 "description": "One of the major rivers in Bangladesh, offering beautiful views and recreational activities."
             },
             {
                 "id": 3,
                 "title": "Puthia Temple Complex",
-                "image": "path/to/puthia_temple_complex_image.jpg",
+                "image": "https://i.ibb.co/8MSYP5C/bhubaneswar-shiva-temple.jpg",
                 "description": "A cluster of historically significant Hindu temples, including the Shiva Temple and the Jagannath Temple."
             },
             {
                 "id": 4,
-                "title": "Barendra Museum",
-                "image": "path/to/barendra_museum_image.jpg",
-                "description": "A museum in Rajshahi known for its archaeological and historical exhibits."
-            },
-            {
-                "id": 5,
                 "title": "Mahasthangarh",
-                "image": "path/to/mahasthangarh_image.jpg",
+                "image": "https://i.ibb.co/f01mkqP/27715467586-81cf9c0141-b.jpg",
                 "description": "An ancient archaeological site near Bogura, believed to be the oldest city in Bangladesh."
             },
             {
-                "id": 6,
+                "id": 5,
                 "title": "Sona Mosque",
-                "image": "path/to/sona_mosque_image.jpg",
+                "image": "https://i.ibb.co/GRY0pSX/1200px-Choto-Sona-Mosque-side-view.jpg",
                 "description": "A historic mosque in Chapai Nawabganj known for its impressive architecture."
             },
             {
-                "id": 7,
+                "id": 6,
                 "title": "Bagha Mosque",
-                "image": "path/to/bagha_mosque_image.jpg",
+                "image": "https://i.ibb.co/C9nbSt4/Bagha-Shahi-Mosque.jpg",
                 "description": "A mosque in Rajshahi known for its terracotta style of architecture."
             },
             {
-                "id": 8,
+                "id": 7,
                 "title": "Bara Kuthi",
-                "image": "path/to/bara_kuthi_image.jpg",
+                "image": "https://i.ibb.co/Y8DGf08/Borokuthi-4.jpg",
                 "description": "A historical site in Rajshahi that served as a residence for European indigo planters."
             }
         ]
@@ -215,54 +203,48 @@
     {
         "id": 4,
         "title": "Khulna",
-        "image": "path/to/khulna_image.jpg",
+        "image": "https://i.ibb.co/tXhv6p6/Cover-Page-Khulna-scaled.jpg",
         "places": [
             {
                 "id": 1,
                 "title": "Sundarbans Mangrove Forest",
-                "image": "path/to/sundarbans_image.jpg",
+                "image": "https://i.ibb.co/r7kY9v0/4493146-Sundarbans-Royal-Bengal-Tiger.jpg",
                 "description": "The largest mangrove forest in the world, home to diverse wildlife including the Bengal tiger."
             },
             {
                 "id": 2,
                 "title": "Bagerhat Sixty Dome Mosque",
-                "image": "path/to/sixty_dome_mosque_image.jpg",
+                "image": "https://i.ibb.co/hcHNmJh/Sixty-Dome-Mosque-Bagerhat.jpg",
                 "description": "A UNESCO World Heritage Site, featuring the historic Sixty Dome Mosque."
             },
             {
                 "id": 3,
-                "title": "Kuakata Sea Beach",
-                "image": "path/to/kuakata_sea_beach_image.jpg",
-                "description": "Known as the 'Daughter of the Sea,' Kuakata offers a panoramic view of both the sunrise and sunset over the Bay of Bengal."
-            },
-            {
-                "id": 4,
                 "title": "Mongla Port",
-                "image": "path/to/mongla_port_image.jpg",
+                "image": "https://i.ibb.co/4RfnbR8/ca14665b79f7fcfc6e1f3f9b0cf44d6d.jpg",
                 "description": "A major seaport in the southwestern part of Bangladesh."
             },
             {
-                "id": 5,
+                "id": 4,
                 "title": "Khan Jahan Ali Bridge",
-                "image": "path/to/khan_jahan_ali_bridge_image.jpg",
+                "image": "https://i.ibb.co/LJyDXD0/1000-F-308443878-0nmv4-AXI85tt-Dcn6vz-Epza5llz-Vp8iaz.jpg",
                 "description": "A prominent bridge connecting Khulna and Bagerhat."
             },
             {
-                "id": 6,
-                "title": "Ratnodweep Resort",
-                "image": "path/to/ratnodweep_resort_image.jpg",
+                "id": 5,
+                "title": "khan jahan ali mazar",
+                "image": "https://i.ibb.co/k3X8TgN/maxresdefault.jpg",
                 "description": "A resort with scenic views located in the Bagerhat district."
             },
             {
-                "id": 7,
+                "id": 6,
                 "title": "Lebur Char Beach",
-                "image": "path/to/lebur_char_beach_image.jpg",
+                "image": "https://i.ibb.co/JBcb4Hp/f7a61faf545f4ae0901038506c118234.jpg",
                 "description": "A tranquil beach with golden sands and clear blue waters."
             },
             {
-                "id": 8,
+                "id": 7,
                 "title": "Digha Sea Beach",
-                "image": "path/to/digha_sea_beach_image.jpg",
+                "image": "https://i.ibb.co/qBGsrQG/582455434-Digha-New-Digha-Beach-Main.jpg",
                 "description": "A popular sea beach in Khulna known for its serene atmosphere."
             }
         ]
@@ -270,109 +252,85 @@
     {
         "id": 5,
         "title": "Barisal",
-        "image": "path/to/barisal_image.jpg",
+        "image": "https://i.ibb.co/M5g4p8r/Barisal-Skyline.jpg",
         "places": [
             {
                 "id": 1,
-                "title": "Lebur Char",
-                "image": "path/to/lebur_char_image.jpg",
+                "title": "Lebur Char Mangrove Forest",
+                "image": "https://i.ibb.co/R2cYrh2/img-1061-largejpg.jpg",
                 "description": "A serene island known for its natural beauty and tranquility."
             },
             {
                 "id": 2,
                 "title": "Durga Sagar",
-                "image": "path/to/durga_sagar_image.jpg",
+                "image": "https://i.ibb.co/mS6zTyV/durga-sagar-pic-20220301125327.jpg",
                 "description": "One of the largest ponds in southern Bangladesh, surrounded by greenery."
             },
             {
                 "id": 3,
                 "title": "Kuakata",
-                "image": "path/to/kuakata_image.jpg",
+                "image": "https://i.ibb.co/ww2zgGM/kuakataa-0.jpg",
                 "description": "Known as the 'Daughter of the Sea,' Kuakata offers a panoramic view of both the sunrise and sunset over the Bay of Bengal."
             },
             {
                 "id": 4,
                 "title": "Fatrar Char",
-                "image": "path/to/fatrar_char_image.jpg",
+                "image": "https://i.ibb.co/Z1hZMrd/Fatrar-Char.jpg",
                 "description": "An island with unique landscapes and diverse ecosystems."
             },
             {
                 "id": 5,
                 "title": "Guthia Mosque",
-                "image": "path/to/guthia_mosque_image.jpg",
+                "image": "https://i.ibb.co/KNCQXmL/Untitled-1-3.jpg",
                 "description": "A historical mosque known for its architectural significance."
-            },
-            {
-                "id": 6,
-                "title": "Lebur Char Beach",
-                "image": "path/to/lebur_char_beach_image.jpg",
-                "description": "A tranquil beach with golden sands and clear blue waters."
-            },
-            {
-                "id": 7,
-                "title": "Fatrar Char Beach",
-                "image": "path/to/fatrar_char_beach_image.jpg",
-                "description": "A serene beach on Fatrar Char island, offering a peaceful retreat."
-            },
-            {
-                "id": 8,
-                "title": "Lebur Char Mangrove Forest",
-                "image": "path/to/lebur_char_mangrove_forest_image.jpg",
-                "description": "Explore the rich biodiversity of the mangrove forest on Lebur Char island."
             }
         ]
     },
     {
         "id": 6,
         "title": "Sylhet",
-        "image": "path/to/sylhet_image.jpg",
+        "image": "https://i.ibb.co/5FTrWKp/2-Keane-Bridge-and-Ali-Amjad-s-Clock-Sylhet.png",
         "places": [
             {
                 "id": 1,
                 "title": "Ratargul Swamp Forest",
-                "image": "path/to/ratargul_swamp_forest_image.jpg",
+                "image": "https://i.ibb.co/9v3CGD2/0-J-0d8-HCn-Zxp-Ky3-YX.jpg",
                 "description": "The only swamp forest in Bangladesh, known for its natural beauty and biodiversity."
             },
             {
                 "id": 2,
                 "title": "Jaflong",
-                "image": "path/to/jaflong_image.jpg",
+                "image": "https://i.ibb.co/6mdDSr3/Zero-Point-at-Zuflong.jpg",
                 "description": "A scenic area with tea gardens, hills, and the Dawki River, known for its picturesque landscapes."
             },
             {
                 "id": 3,
                 "title": "Lawachara National Park",
-                "image": "path/to/lawachara_national_park_image.jpg",
+                "image": "https://i.ibb.co/z4FSWQ5/lawachara-national-park.jpg",
                 "description": "A biodiversity hotspot with various species of flora and fauna, including the endangered hoolock gibbons."
             },
             {
                 "id": 4,
                 "title": "Lalakhal",
-                "image": "path/to/lalakhal_image.jpg",
+                "image": "https://i.ibb.co/PZPg0nn/large-v-v2-px-999.jpg",
                 "description": "A serene river with crystal-clear blue water, surrounded by greenery and hills."
             },
             {
                 "id": 5,
-                "title": "Rajkandi Reserve Forest",
-                "image": "path/to/rajkandi_reserve_forest_image.jpg",
-                "description": "A reserve forest with diverse wildlife and natural landscapes."
-            },
-            {
-                "id": 6,
                 "title": "Srimangal",
-                "image": "path/to/srimangal_image.jpg",
+                "image": "https://i.ibb.co/3cL8mrt/a-train-journey-will-go-through-the-jungle-of-lawachora.jpg",
                 "description": "Known as the 'Tea Capital of Bangladesh,' Srimangal is famous for its tea gardens and the Lawachara National Park."
             },
             {
-                "id": 7,
+                "id": 6,
                 "title": "Madhabkunda Waterfall",
-                "image": "path/to/madhabkunda_waterfall_image.jpg",
+                "image": "https://i.ibb.co/Rzxg368/Madhabkunda.jpg",
                 "description": "One of the largest waterfalls in Bangladesh, surrounded by lush greenery."
             },
             {
-                "id": 8,
+                "id": 7,
                 "title": "Bisnakandi",
-                "image": "path/to/bisnakandi_image.jpg",
+                "image": "https://i.ibb.co/mcJ5Y33/bisnakandi.jpg",
                 "description": "A scenic area with hills, rivers, and stone quarries, offering breathtaking views."
             }
         ]
@@ -380,7 +338,7 @@
     {
         "id": 7,
         "title": "Rangpur",
-        "image": "path/to/rangpur_image.jpg",
+        "image": "https://i.ibb.co/Tk4RTC1/Rangpur-Town-Hall-IMG-20231011-141548-840.jpg",
         "places": [
             {
                 "id": 1,
@@ -435,7 +393,7 @@
     {
         "id": 8,
         "title": "Mymensingh",
-        "image": "path/to/mymensingh_image.jpg",
+        "image": "https://i.ibb.co/gvCQCzS/Shilpacharya-Zainul-Abedin-Sangrahashala-Mymensingh-770x420.jpg",
         "places": [
             {
                 "id": 1,

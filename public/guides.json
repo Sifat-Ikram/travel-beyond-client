@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Aryan",
+      "image": "aryan.jpg",
+      "division": "Dhaka",
+      "price": 1500,
+      "details": "Experienced tour guide providing guided tours in the Dhaka division."
+    },
+    {
+      "name": "Rahim",
+      "image": "rahim.jpg",
+      "division": "Chittagong",
+      "price": 1200,
+      "details": "Passionate tour guide offering guided tours in the Chittagong division."
+    },
+    {
+      "name": "Kabir",
+      "image": "kabir.jpg",
+      "division": "Rajshahi",
+      "price": 500,
+      "details": "Knowledgeable tour guide specializing in tours in the Rajshahi division."
+    },
+    {
+      "name": "Imran",
+      "image": "imran.jpg",
+      "division": "Khulna",
+      "price": 700,
+      "details": "Friendly tour guide offering insightful tours in the Khulna division."
+    },
+    {
+      "name": "Sohan",
+      "image": "sohan.jpg",
+      "division": "Barisal",
+      "price": 900,
+      "details": "Dedicated tour guide showcasing the beauty of the Barisal division."
+    },
+    {
+      "name": "Rafiq",
+      "image": "rafiq.jpg",
+      "division": "Sylhet",
+      "price": 1300,
+      "details": "Experienced tour guide providing captivating tours in the Sylhet division."
+    },
+    {
+      "name": "Farid",
+      "image": "farid.jpg",
+      "division": "Rangpur",
+      "price": 300,
+      "details": "Passionate tour guide offering enriching tours in the Rangpur division."
+    },
+    {
+      "name": "Nasir",
+      "image": "nasir.jpg",
+      "division": "Mymensingh",
+      "price": 400,
+      "details": "Knowledgeable tour guide showcasing the wonders of Mymensingh division."
+    }
+  ]

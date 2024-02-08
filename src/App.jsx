@@ -1,15 +1,11 @@
-import { Outlet } from 'react-router-dom'
-import Navbar from './components/shared/Navbar'
+import { Outlet } from 'react-router-dom';
 
 function App() {
 
   return (
-    <div>
-      <Navbar></Navbar>
-      <div className='w-5/6 mx-auto'>
+      <div>
         <Outlet></Outlet>
       </div>
-    </div>
   )
 }
 
