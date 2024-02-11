@@ -1,4 +1,3 @@
-import React from 'react';
 import { useForm } from "react-hook-form";
 import useAxiosSecure from '../../../hooks/useAxiosSecure';
 import Swal from 'sweetalert2';
@@ -17,17 +16,18 @@ const AddTour = () => {
                 'content-type': 'multipart/form-data'
             }
         });
-        
+
         if (res.data.data.display_url) {
             const testInfo = {
-                title: data.title,
+                destination: data.destination,
                 division: data.division,
+                district: data.district,
+                duration: data.duration,
                 price: parseFloat(data.price),
-                deadline: data.deadline,
-                places: data.places,
-                date: data.date,
-                transportation: data.transportation,
-                included_item: data.included_item,
+                booking_date: data.deadline,
+                highlights: data.places,
+                tour_date: data.date,
+                includes: data.includes,
                 description: data.description,
                 image: res.data.data.display_url
             }
@@ -54,15 +54,29 @@ const AddTour = () => {
                                 <div className='lg:flex lg:justify-between w-4/5 mx-auto lg:items-center'>
                                     <div className="form-control">
                                         <label className="label">
-                                            <span className="label-text">Full Name</span>
+                                            <span className="label-text">Destination Name</span>
                                         </label>
-                                        <input type="text" {...register("title")} placeholder="Full Name" className="input input-bordered" />
+                                        <input type="text" {...register("destination")} placeholder="Destination Name" className="input input-bordered" />
                                     </div>
                                     <div className="form-control">
                                         <label className="label">
                                             <span className="label-text">Division</span>
                                         </label>
                                         <input type="text" {...register("division")} placeholder="Enter Division" className="input input-bordered" />
+                                    </div>
+                                </div>
+                                <div className='lg:flex lg:justify-between w-4/5 mx-auto lg:items-center'>
+                                    <div className="form-control">
+                                        <label className="label">
+                                            <span className="label-text">district</span>
+                                        </label>
+                                        <input type="text" {...register("district")} placeholder="district" className="input input-bordered" />
+                                    </div>
+                                    <div className="form-control">
+                                        <label className="label">
+                                            <span className="label-text">Tour duration</span>
+                                        </label>
+                                        <input type="text" {...register("duration")} placeholder="Enter tour duration" className="input input-bordered" />
                                     </div>
                                 </div>
                                 <div className='lg:flex lg:justify-between w-4/5 mx-auto lg:items-center'>
@@ -82,15 +96,9 @@ const AddTour = () => {
                                 <div className='lg:flex lg:justify-between w-4/5 mx-auto lg:items-center'>
                                     <div className="form-control">
                                         <label className="label">
-                                            <span className="label-text">Transportation</span>
+                                            <span className="label-text">Includes</span>
                                         </label>
-                                        <input type="text" {...register("transportation")} placeholder="transportation" className="input input-bordered" />
-                                    </div>
-                                    <div className="form-control">
-                                        <label className="label">
-                                            <span className="label-text">Included item</span>
-                                        </label>
-                                        <input type="text"{...register("included_item")} placeholder="Included item" className="input input-bordered" />
+                                        <input type="text" {...register("includes")} placeholder="Includes items" className="input input-bordered" />
                                     </div>
                                 </div>
                                 <div className='lg:flex lg:justify-between w-4/5 mx-auto lg:items-center'>
@@ -107,17 +115,17 @@ const AddTour = () => {
                                         <input type="date" {...register("date")} placeholder="Tour date" className="input input-bordered" />
                                     </div>
                                 </div>
+                                <div className="form-control flex justify-center">
+                                    <label className="label">
+                                        <span className="label-text">Image</span>
+                                    </label>
+                                    <input {...register("image")} type="file" className="file-input file-input-bordered w-full max-w-xs" />
+                                </div>
                                 <div className="form-control">
                                     <label className="label">
                                         <span className="label-text">Tour Description</span>
                                     </label>
                                     <textarea {...register("description")} className="textarea textarea-bordered" placeholder="Tour Description"></textarea>
-                                </div>
-                                <div className="form-control">
-                                    <label className="label">
-                                        <span className="label-text">Full Name</span>
-                                    </label>
-                                    <input {...register("image")} type="file" className="file-input file-input-bordered w-full max-w-xs" />
                                 </div>
                                 <div className="mt-6 form-control">
                                     <button className="btn font-btn hover:bg-[#47FC22] border-white">Add Tour</button>

@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import { useContext } from 'react';
 import useAxiosPublic from '../../hooks/useAxiosPublic';
 import { AuthContext } from '../../provider/AuthProvider';
 import Swal from 'sweetalert2';
@@ -7,22 +7,21 @@ const AddReview = () => {
     const { user } = useContext(AuthContext);
     const axiosPublic = useAxiosPublic();
 
-    console.log(user.email);
-
-    const handleAddReview = async(e) => {
+    const handleAddReview = async (e) => {
         e.preventDefault();
         const review = e.target.review.value;
         
         const reviewItem = {
             email : user.email,
+            userName: user.displayName,
             review: review
         }
+        
     
         const reviewRes = await axiosPublic.post("/review", reviewItem);
         if (reviewRes.data.insertedId) {
             console.log(reviewRes.data);
             Swal.fire("Review added successfully");
-            reset();
         }
 
     }

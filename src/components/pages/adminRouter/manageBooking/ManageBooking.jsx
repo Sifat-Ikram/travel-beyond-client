@@ -1,13 +1,10 @@
-import React from 'react';
 import useAxiosSecure from '../../../hooks/useAxiosSecure';
 import { useQuery } from '@tanstack/react-query';
 import { MdDelete } from 'react-icons/md';
 import Swal from 'sweetalert2';
-import useAxiosPublic from '../../../hooks/useAxiosPublic';
 
 const ManageBooking = () => {
     const axiosSecure = useAxiosSecure();
-    const axiosPublic = useAxiosPublic();
 
     const { data: booking = [], refetch } = useQuery({
         queryKey: ['booking._id'],
@@ -75,7 +72,7 @@ const ManageBooking = () => {
                                     </th>
                                     <td>
                                         <div>
-                                            <div className="font-bold">{booking.title}</div>
+                                            <div className="font-bold">{booking.destination}</div>
                                         </div>
                                     </td>
                                     <td>

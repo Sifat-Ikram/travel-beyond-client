@@ -19,7 +19,6 @@ import About from './components/pages/about/About.jsx'
 import Places from './components/pages/places/Places.jsx'
 import Dashboard from './components/pages/dashboard/Dashboard.jsx'
 import AllUsers from './components/pages/adminRouter/users/AllUsers.jsx'
-import Destinations from './components/pages/Destinations/Destinations.jsx'
 import PrivateRouter from './components/privateRouter/PrivateRouter.jsx';
 import AdminRouter from './components/privateRouter/AdminRouter.jsx';
 import AllTour from './components/pages/tour/AllTour.jsx';
@@ -60,10 +59,6 @@ const router = createBrowserRouter([
       {
         path: "/places/:id",
         element: <Places></Places>
-      },
-      {
-        path: "/Destinations",
-        element: <Destinations></Destinations>
       },
       {
         path: "/divisionDetails/:id",

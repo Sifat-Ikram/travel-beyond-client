@@ -18,7 +18,6 @@ const DayTour = () => {
         }
     })
     const filteredTour = tours && tours.length > 0 ? tours.filter(tour => tour.duration === "2 days") : [];
-    console.log(filteredTour);
 
     return (
         <div className="space-y-10">
@@ -34,7 +33,7 @@ const DayTour = () => {
                 >
                     {
                         filteredTour.map(tour => <SwiperSlide key={tour.package_id}>
-                            <div className="w-80 h-[400px] border-2 border-solid rounded-xl shadow-xl">
+                            <div className="h-[400px] gap-5 border-2 border-solid rounded-xl shadow-xl">
                                 <figure className="px-6 pt-6">
                                     <img src={tour.image} alt={tour.destination} className="rounded-xl h-40" />
                                 </figure>

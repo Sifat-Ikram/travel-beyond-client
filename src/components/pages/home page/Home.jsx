@@ -5,6 +5,7 @@ import Review from './review/Review';
 import DayTour from "./shortTrip/DayTour";
 import Introduction from "./introduction/Introduction";
 import Choosing from "./choosing/Choosing";
+import Destinations from "./destination/Destinations";
 
 const Home = () => {
     return (
@@ -15,6 +16,7 @@ const Home = () => {
                 <Introduction></Introduction>
                 <DayTour></DayTour>
                 <Choosing></Choosing>
+                <Destinations></Destinations>
                 <Review></Review>
             </div>
             <Footer></Footer>

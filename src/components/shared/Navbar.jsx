@@ -13,7 +13,6 @@ const Navbar = () => {
 
     const navLinks = <>
         <li className='text-xl font-normal'><Link to={"/"}>Home</Link></li>
-        <li className='text-xl font-normal'><Link to={"/Destinations"}>Destinations</Link></li>
         {
             user && <>
                 <li className='text-xl font-normal'><Link to={"/allTour"}>Tours</Link></li>
