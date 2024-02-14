@@ -21,7 +21,6 @@ const AllTour = () => {
         const form = e.target;
         const search = form.search.value;
         setValue(search);
-        console.log(search);
     }
 
     const getFilteredDistrict = () => {

@@ -5,19 +5,12 @@
         "image": "https://i.ibb.co/dW2bSd2/1200px-1.jpg",
         "district": "Dhaka",
         "destination": "Old Dhaka Heritage Tour",
-        "duration": "1 day",
+        "duration": 1,
         "price": 50,
-        "highlights": [
-            "Explore historical landmarks",
-            "Visit traditional markets"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-08",
-        "tour_date": "2024-02-15",
+        "highlights": "Explore historical landmarks, Visit traditional markets",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-08-2024",
+        "tour_date": "02-15-2024",
         "description": "Immerse yourself in the rich history and culture of Old Dhaka with this guided tour. Witness the architectural wonders and vibrant markets that characterize this historic area."
     },
     {
@@ -26,19 +19,13 @@
         "image": "https://i.ibb.co/dW2bSd2/1200px-1.jpg",
         "district": "Dhaka",
         "destination": "Ahsan Manzil",
-        "duration": "1 day",
+        "duration": 1,
         "price": 60,
-        "highlights": [
-            "Tour the iconic Ahsan Manzil",
-            "Learn about its rich history"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-09",
-        "tour_date": "2024-02-16",
+        "highlights":
+            "Tour the iconic Ahsan Manzil, Learn about its rich history",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-09-2024",
+        "tour_date": "02-16-2024",
         "description": "Step back in time as you explore the magnificent Ahsan Manzil, also known as the Pink Palace. Discover the fascinating history and architecture of this historic landmark."
     },
     {
@@ -47,19 +34,14 @@
         "image": "https://i.ibb.co/dW2bSd2/1200px-1.jpg",
         "district": "Dhaka",
         "destination": "Lalbagh Fort",
-        "duration": "1 day",
+        "duration": 1,
         "price": 55,
-        "highlights": [
-            "Explore the majestic Lalbagh Fort",
-            "Discover its architectural beauty"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-10",
-        "tour_date": "2024-02-17",
+        "highlights":
+            "Explore the majestic Lalbagh Fort, Discover its architectural beauty",
+        "includes": "Transportation, Guide, Lunch"
+        ,
+        "booking_date": "02-10-2024",
+        "tour_date": "02-17-2024",
         "description": "Uncover the secrets of Lalbagh Fort, a Mughal architectural masterpiece. Explore its intricately designed structures and learn about its historical significance."
     },
     {
@@ -68,19 +50,13 @@
         "image": "https://i.ibb.co/dW2bSd2/1200px-1.jpg",
         "district": "Dhaka",
         "destination": "Sonargaon Folk Art and Craft Museum",
-        "duration": "1 day",
+        "duration": 1,
         "price": 65,
-        "highlights": [
-            "Visit the museum showcasing traditional art",
-            "Explore Sonargaon heritage"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-11",
-        "tour_date": "2024-02-18",
+        "highlights":
+            "Visit the museum showcasing traditional art, Explore Sonargaon heritage",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-11-2024",
+        "tour_date": "02-18-2024",
         "description": "Experience the rich cultural heritage of Sonargaon through its folk art and craft museum. Discover traditional art forms and immerse yourself in the history of the region."
     },
     {
@@ -89,19 +65,13 @@
         "image": "https://i.ibb.co/dW2bSd2/1200px-1.jpg",
         "district": "Gazipur",
         "destination": "Bangabandhu Safari Park",
-        "duration": "1 day",
+        "duration": 1,
         "price": 70,
-        "highlights": [
-            "Safari experience",
-            "Animal encounters"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-12",
-        "tour_date": "2024-02-19",
+        "highlights":
+            "Safari experience, Animal encounters",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-12-2024",
+        "tour_date": "02-19-2024",
         "description": "Embark on an exciting safari adventure at Bangabandhu Safari Park. Get up close with various species of animals and enjoy the thrill of wildlife encounters."
     },
     {
@@ -110,19 +80,13 @@
         "image": "https://i.ibb.co/dW2bSd2/1200px-1.jpg",
         "district": "Gazipur",
         "destination": "National Botanical Garden",
-        "duration": "1 day",
+        "duration": 1,
         "price": 55,
-        "highlights": [
-            "Explore diverse plant species",
-            "Enjoy nature walks"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-13",
-        "tour_date": "2024-02-20",
+        "highlights":
+            "Explore diverse plant species, Enjoy nature walks",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-13-2024",
+        "tour_date": "02-20-2024",
         "description": "Escape into nature at the National Botanical Garden. Wander through lush greenery, admire diverse plant species, and rejuvenate your senses with a peaceful nature walk."
     },
     {
@@ -131,20 +95,13 @@
         "image": "https://i.ibb.co/dW2bSd2/1200px-1.jpg",
         "district": "Tangail",
         "destination": "Jamuna Resort",
-        "duration": "2 days",
+        "duration": 2,
         "price": 150,
-        "highlights": [
-            "Relax at the luxurious resort",
-            "Enjoy recreational activities"
-        ],
-        "includes": [
-            "Accommodation",
-            "Transportation",
-            "Guide",
-            "Meals"
-        ],
-        "booking_date": "2024-02-14",
-        "tour_date": "2024-02-21",
+        "highlights":
+            "Relax at the luxurious resort, Enjoy recreational activities",
+        "includes": "Accommodation, Transportation, Guide, Meals",
+        "booking_date": "02-14-2024",
+        "tour_date": "02-21-2024",
         "description": "Indulge in a luxurious getaway at Jamuna Resort. Relax amidst scenic surroundings, enjoy recreational activities, and experience unparalleled hospitality."
     },
     {
@@ -153,19 +110,13 @@
         "image": "https://i.ibb.co/dW2bSd2/1200px-1.jpg",
         "district": "Munshiganj",
         "destination": "Moinamati War Cemetery",
-        "duration": "1 day",
+        "duration": 1,
         "price": 75,
-        "highlights": [
-            "Pay respects at the war cemetery",
-            "Learn about historical significance"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-15",
-        "tour_date": "2024-02-22",
+        "highlights":
+            "Pay respects at the war cemetery, Learn about historical significance",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-15-2024",
+        "tour_date": "02-22-2024",
         "description": "Honor the sacrifices of the brave soldiers at Moinamati War Cemetery. Explore the memorial site and gain insights into its historical significance."
     },
     {
@@ -174,20 +125,14 @@
         "image": "https://i.ibb.co/s9tnjKH/chittagong-port-credit-chittagong-port-2.jpg",
         "district": "Chittagong",
         "destination": "Patenga Beach",
-        "duration": "1 day",
+        "duration": 1,
         "price": 50,
-        "highlights": [
-            "Relax on the sandy shores",
-            "Enjoy beachside activities"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-07",
-        "tour_date": "2024-02-14",
-        "description": "Escape to the tranquil shores of Patenga Beach for a day of relaxation and fun-filled activities. Unwind by the sea and soak in the natural beauty of the coastline."
+        "highlights":
+            "Relax on the sandy shores, Enjoy beachside activities",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-07-2024",
+        "tour_date": "02-14-2024",
+        "description": "Escape to the tranquil shores of Patenga Beach foraof relaxation and fun-filled activities. Unwind by the sea and soak in the natural beauty of the coastline."
     },
     {
         "package_id": "CTG002",
@@ -195,19 +140,13 @@
         "image": "https://i.ibb.co/s9tnjKH/chittagong-port-credit-chittagong-port-2.jpg",
         "district": "Chittagong",
         "destination": "Foy's Lake",
-        "duration": "1 day",
+        "duration": 1,
         "price": 60,
-        "highlights": [
-            "Boating and water sports",
-            "Scenic views"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-08",
-        "tour_date": "2024-02-15",
+        "highlights":
+            "Boating and water sports, Scenic views",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-08-2024",
+        "tour_date": "02-15-2024",
         "description": "Embark on an adventure at Foy's Lake with exciting boating and water sports activities. Enjoy stunning views of the lake surrounded by lush green hills."
     },
     {
@@ -216,20 +155,13 @@
         "image": "https://i.ibb.co/s9tnjKH/chittagong-port-credit-chittagong-port-2.jpg",
         "district": "Cox's Bazar",
         "destination": "Cox's Bazar Beach",
-        "duration": "2 days",
+        "duration": 2,
         "price": 150,
-        "highlights": [
-            "Longest natural sea beach",
-            "Sunset views"
-        ],
-        "includes": [
-            "Accommodation",
-            "Transportation",
-            "Guide",
-            "Meals"
-        ],
-        "booking_date": "2024-02-09",
-        "tour_date": "2024-02-16",
+        "highlights":
+            "Longest natural sea beach, Sunset views",
+        "includes": "Accommodation, Transportation, Guide, Meals",
+        "booking_date": "02-09-2024",
+        "tour_date": "02-16-2024",
         "description": "Experience the ultimate beach getaway at Cox's Bazar, home to the world's longest natural sea beach. Relax on the golden sands and witness breathtaking sunsets."
     },
     {
@@ -238,19 +170,13 @@
         "image": "https://i.ibb.co/s9tnjKH/chittagong-port-credit-chittagong-port-2.jpg",
         "district": "Cox's Bazar",
         "destination": "Inani Beach",
-        "duration": "1 day",
+        "duration": 1,
         "price": 70,
-        "highlights": [
-            "Serene beach environment",
-            "Scenic beauty"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-10",
-        "tour_date": "2024-02-17",
+        "highlights":
+            "Serene beach environment, Scenic beauty",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-10-2024",
+        "tour_date": "02-17-2024",
         "description": "Escape the crowds and enjoy the tranquility of Inani Beach. Relax in a serene environment and marvel at the pristine beauty of this secluded stretch of coastline."
     },
     {
@@ -259,20 +185,13 @@
         "image": "https://i.ibb.co/s9tnjKH/chittagong-port-credit-chittagong-port-2.jpg",
         "district": "Rangamati",
         "destination": "Kaptai Lake",
-        "duration": "2 days",
+        "duration": 2,
         "price": 200,
-        "highlights": [
-            "Boat cruise on Kaptai Lake",
-            "Explore tribal villages"
-        ],
-        "includes": [
-            "Accommodation",
-            "Transportation",
-            "Guide",
-            "Meals"
-        ],
-        "booking_date": "2024-02-11",
-        "tour_date": "2024-02-18",
+        "highlights":
+            "Boat cruise on Kaptai Lake, Explore tribal villages",
+        "includes": "Accommodation, Transportation, Guide, Meals",
+        "booking_date": "02-11-2024",
+        "tour_date": "02-18-2024",
         "description": "Embark on a scenic boat cruise on Kaptai Lake amidst the picturesque landscapes of Rangamati. Explore tribal villages and immerse yourself in indigenous culture."
     },
     {
@@ -281,20 +200,13 @@
         "image": "https://i.ibb.co/s9tnjKH/chittagong-port-credit-chittagong-port-2.jpg",
         "district": "Bandarban",
         "destination": "Nilgiri Hills",
-        "duration": "2 days",
+        "duration": 2,
         "price": 250,
-        "highlights": [
-            "Trekking in the hills",
-            "Panoramic views"
-        ],
-        "includes": [
-            "Accommodation",
-            "Transportation",
-            "Guide",
-            "Meals"
-        ],
-        "booking_date": "2024-02-12",
-        "tour_date": "2024-02-19",
+        "highlights":
+            "Trekking in the hills, Panoramic views",
+        "includes": "Accommodation, Transportation, Guide, Meals",
+        "booking_date": "02-12-2024",
+        "tour_date": "02-19-2024",
         "description": "Embark on an exhilarating trekking adventure in the scenic Nilgiri Hills of Bandarban. Enjoy panoramic views of the surrounding landscapes and lush greenery."
     },
     {
@@ -303,19 +215,13 @@
         "image": "https://i.ibb.co/s9tnjKH/chittagong-port-credit-chittagong-port-2.jpg",
         "district": "Khagrachari",
         "destination": "Alutila Cave",
-        "duration": "1 day",
+        "duration": 1,
         "price": 80,
-        "highlights": [
-            "Explore natural caves",
-            "Adventure activities"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-13",
-        "tour_date": "2024-02-20",
+        "highlights":
+            "Explore natural caves, Adventure activities",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-13-2024",
+        "tour_date": "02-20-2024",
         "description": "Embark on an exciting cave exploration adventure at Alutila Cave in Khagrachari. Discover natural wonders and indulge in thrilling adventure activities."
     },
     {
@@ -324,20 +230,13 @@
         "image": "https://i.ibb.co/s9tnjKH/chittagong-port-credit-chittagong-port-2.jpg",
         "district": "Chittagong",
         "destination": "Chittagong Hill Tracts",
-        "duration": "3 days",
+        "duration": 3,
         "price": 300,
-        "highlights": [
-            "Scenic landscapes",
-            "Cultural immersion"
-        ],
-        "includes": [
-            "Accommodation",
-            "Transportation",
-            "Guide",
-            "Meals"
-        ],
-        "booking_date": "2024-02-14",
-        "tour_date": "2024-02-21",
+        "highlights":
+            "Scenic landscapes, Cultural immersion",
+        "includes": "Accommodation, Transportation, Guide, Meals",
+        "booking_date": "02-14-2024",
+        "tour_date": "02-21-2024",
         "description": "Immerse yourself in the natural beauty and rich culture of the Chittagong Hill Tracts. Explore scenic landscapes, visit tribal villages, and experience cultural immersion."
     },
     {
@@ -346,20 +245,13 @@
         "image": "https://i.ibb.co/tXhv6p6/Cover-Page-Khulna-scaled.jpg",
         "district": "Khulna",
         "destination": "Sundarbans Mangrove Forest",
-        "duration": "2 days",
+        "duration": 2,
         "price": 200,
-        "highlights": [
-            "Sundarbans wildlife safari",
-            "Mangrove forest exploration"
-        ],
-        "includes": [
-            "Accommodation",
-            "Transportation",
-            "Guide",
-            "Meals"
-        ],
-        "booking_date": "2024-02-07",
-        "tour_date": "2024-02-14",
+        "highlights":
+            "Sundarbans wildlife safari, Mangrove forest exploration",
+        "includes": "Accommodation, Transportation, Guide, Meals",
+        "booking_date": "02-07-2024",
+        "tour_date": "02-14-2024",
         "description": "Embark on an unforgettable adventure into the heart of the Sundarbans, the largest mangrove forest in the world. Discover diverse wildlife, including the Royal Bengal Tiger, and explore the enchanting beauty of this UNESCO World Heritage Site."
     },
     {
@@ -368,19 +260,13 @@
         "image": "https://i.ibb.co/tXhv6p6/Cover-Page-Khulna-scaled.jpg",
         "district": "Bagerhat",
         "destination": "Sompur Mahavihara",
-        "duration": "1 day",
+        "duration": 1,
         "price": 100,
-        "highlights": [
-            "Visit UNESCO World Heritage Site",
-            "Explore ancient ruins"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-08",
-        "tour_date": "2024-02-15",
+        "highlights":
+            "Visit UNESCO World Heritage Site, Explore ancient ruins",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-08-2024",
+        "tour_date": "02-15-2024",
         "description": "Journey back in time to explore the ancient ruins of Sompur Mahavihara, a UNESCO World Heritage Site. Marvel at the architectural grandeur of this historic Buddhist monastery."
     },
     {
@@ -389,20 +275,13 @@
         "image": "https://i.ibb.co/tXhv6p6/Cover-Page-Khulna-scaled.jpg",
         "district": "Khulna",
         "destination": "Kuakata Beach",
-        "duration": "2 days",
+        "duration": 2,
         "price": 150,
-        "highlights": [
-            "Sunrise and sunset views",
-            "Beachside activities"
-        ],
-        "includes": [
-            "Accommodation",
-            "Transportation",
-            "Guide",
-            "Meals"
-        ],
-        "booking_date": "2024-02-09",
-        "tour_date": "2024-02-16",
+        "highlights":
+            "Sunrise and sunset views, Beachside activities",
+        "includes": "Accommodation, Transportation, Guide, Meals",
+        "booking_date": "02-09-2024",
+        "tour_date": "02-16-2024",
         "description": "Experience the natural beauty of Kuakata Beach with its stunning views of sunrise and sunset over the Bay of Bengal. Relax on the sandy shores and indulge in beachside activities."
     },
     {
@@ -411,19 +290,13 @@
         "image": "https://i.ibb.co/tXhv6p6/Cover-Page-Khulna-scaled.jpg",
         "district": "Satkhira",
         "destination": "Sona Mosque",
-        "duration": "1 day",
+        "duration": 1,
         "price": 80,
-        "highlights": [
-            "Visit historic mosque",
-            "Architectural exploration"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-10",
-        "tour_date": "2024-02-17",
+        "highlights":
+            "Visit historic mosque, Architectural exploration",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-10-2024",
+        "tour_date": "02-17-2024",
         "description": "Explore the architectural marvels of Sona Mosque, a historic mosque known for its intricate terracotta ornamentation. Learn about the cultural significance of this iconic landmark."
     },
     {
@@ -432,19 +305,13 @@
         "image": "https://i.ibb.co/tXhv6p6/Cover-Page-Khulna-scaled.jpg",
         "district": "Jessore",
         "destination": "Benapole Border",
-        "duration": "1 day",
+        "duration": 1,
         "price": 70,
-        "highlights": [
-            "Border visit",
-            "Cultural exchange"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-11",
-        "tour_date": "2024-02-18",
+        "highlights":
+            "Border visit, Cultural exchange",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-11-2024",
+        "tour_date": "02-18-2024",
         "description": "Experience a unique cultural exchange at Benapole Border, the busiest land port in Bangladesh. Witness the hustle and bustle of cross-border trade and interact with locals from neighboring countries."
     },
     {
@@ -453,19 +320,13 @@
         "image": "https://i.ibb.co/tXhv6p6/Cover-Page-Khulna-scaled.jpg",
         "district": "Khulna",
         "destination": "Khulna Shipyard",
-        "duration": "1 day",
+        "duration": 1,
         "price": 60,
-        "highlights": [
-            "Shipyard tour",
-            "Maritime exploration"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-12",
-        "tour_date": "2024-02-19",
+        "highlights":
+            "Shipyard tour, Maritime exploration",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-12-2024",
+        "tour_date": "02-19-2024",
         "description": "Discover the maritime heritage of Bangladesh with a tour of Khulna Shipyard, one of the largest shipyards in the country. Learn about shipbuilding techniques and witness the construction of vessels."
     },
     {
@@ -474,19 +335,13 @@
         "image": "https://i.ibb.co/tXhv6p6/Cover-Page-Khulna-scaled.jpg",
         "district": "Khulna",
         "destination": "Shat Gombuj Mosque",
-        "duration": "1 day",
+        "duration": 1,
         "price": 90,
-        "highlights": [
-            "Visit historic mosque",
-            "Architectural exploration"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-13",
-        "tour_date": "2024-02-20",
+        "highlights":
+            "Visit historic mosque, Architectural exploration",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-13-2024",
+        "tour_date": "02-20-2024",
         "description": "Explore the grandeur of Shat Gombuj Mosque, also known as the Sixty Dome Mosque, in Bagerhat. Marvel at the architectural beauty and historical significance of this UNESCO World Heritage Site."
     },
     {
@@ -495,19 +350,13 @@
         "image": "https://i.ibb.co/tXhv6p6/Cover-Page-Khulna-scaled.jpg",
         "district": "Jessore",
         "destination": "Jhikargacha Rajbari",
-        "duration": "1 day",
+        "duration": 1,
         "price": 75,
-        "highlights": [
-            "Explore historic palace",
-            "Cultural immersion"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-14",
-        "tour_date": "2024-02-21",
+        "highlights":
+            "Explore historic palace, Cultural immersion",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-14-2024",
+        "tour_date": "02-21-2024",
         "description": "Step into the past with a visit to Jhikargacha Rajbari, a historic palace in Jessore. Explore the royal architecture and immerse yourself in the rich cultural heritage of Bengal."
     },
     {
@@ -516,20 +365,13 @@
         "image": "https://i.ibb.co/M5g4p8r/Barisal-Skyline.jpg",
         "district": "Barishal",
         "destination": "Kuakata Beach",
-        "duration": "2 days",
+        "duration": 2,
         "price": 200,
-        "highlights": [
-            "Sunrise and sunset views",
-            "Beachside activities"
-        ],
-        "includes": [
-            "Accommodation",
-            "Transportation",
-            "Guide",
-            "Meals"
-        ],
-        "booking_date": "2024-02-07",
-        "tour_date": "2024-02-14",
+        "highlights":
+            "Sunrise and sunset views, Beachside activities",
+        "includes": "Accommodation, Transportation, Guide, Meals",
+        "booking_date": "02-07-2024",
+        "tour_date": "02-14-2024",
         "description": "Experience the natural beauty of Kuakata Beach with its stunning views of sunrise and sunset over the Bay of Bengal. Relax on the sandy shores and indulge in beachside activities."
     },
     {
@@ -538,19 +380,13 @@
         "image": "https://i.ibb.co/M5g4p8r/Barisal-Skyline.jpg",
         "district": "Barishal",
         "destination": "Guthia Mosque",
-        "duration": "1 day",
+        "duration": 1,
         "price": 100,
-        "highlights": [
-            "Visit historic mosque",
-            "Architectural exploration"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-08",
-        "tour_date": "2024-02-15",
+        "highlights":
+            "Visit historic mosque, Architectural exploration",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-08-2024",
+        "tour_date": "02-15-2024",
         "description": "Explore the architectural marvels of Guthia Mosque, a historic mosque known for its intricate terracotta ornamentation. Learn about the cultural significance of this iconic landmark."
     },
     {
@@ -559,19 +395,13 @@
         "image": "https://i.ibb.co/M5g4p8r/Barisal-Skyline.jpg",
         "district": "Barishal",
         "destination": "Durga Sagar",
-        "duration": "1 day",
+        "duration": 1,
         "price": 150,
-        "highlights": [
-            "Boat tour of Durga Sagar",
-            "Scenic beauty"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-09",
-        "tour_date": "2024-02-16",
+        "highlights":
+            "Boat tour of Durga Sagar, Scenic beauty",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-09-2024",
+        "tour_date": "02-16-2024",
         "description": "Embark on a scenic boat tour of Durga Sagar, a vast expanse of freshwater lake surrounded by lush greenery. Discover serene landscapes and tranquil waters."
     },
     {
@@ -580,20 +410,13 @@
         "image": "https://i.ibb.co/M5g4p8r/Barisal-Skyline.jpg",
         "district": "Bhola",
         "destination": "Nijhum Dwip",
-        "duration": "2 days",
+        "duration": 2,
         "price": 180,
-        "highlights": [
-            "Island exploration",
-            "Bird watching"
-        ],
-        "includes": [
-            "Accommodation",
-            "Transportation",
-            "Guide",
-            "Meals"
-        ],
-        "booking_date": "2024-02-10",
-        "tour_date": "2024-02-17",
+        "highlights":
+            "Island exploration, Bird watching",
+        "includes": "Accommodation, Transportation, Guide, Meals",
+        "booking_date": "02-10-2024",
+        "tour_date": "02-17-2024",
         "description": "Discover the untouched beauty of Nijhum Dwip, a secluded island paradise off the coast of Bhola. Explore pristine beaches, lush mangrove forests, and abundant wildlife."
     },
     {
@@ -602,19 +425,13 @@
         "image": "https://i.ibb.co/M5g4p8r/Barisal-Skyline.jpg",
         "district": "Bhola",
         "destination": "Matarbari Beach",
-        "duration": "1 day",
+        "duration": 1,
         "price": 80,
-        "highlights": [
-            "Relax on sandy shores",
-            "Scenic views"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-11",
-        "tour_date": "2024-02-18",
+        "highlights":
+            "Relax on sandy shores, Scenic views",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-11-2024",
+        "tour_date": "02-18-2024",
         "description": "Escape to the serene shores of Matarbari Beach and unwind amidst stunning natural beauty. Relax on the sandy shores and enjoy breathtaking views of the Bay of Bengal."
     },
     {
@@ -623,19 +440,13 @@
         "image": "https://i.ibb.co/M5g4p8r/Barisal-Skyline.jpg",
         "district": "Patuakhali",
         "destination": "Kuakata Buddha Bihar",
-        "duration": "1 day",
+        "duration": 1,
         "price": 90,
-        "highlights": [
-            "Visit Buddhist monastery",
-            "Cultural exploration"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-12",
-        "tour_date": "2024-02-19",
+        "highlights":
+            "Visit Buddhist monastery, Cultural exploration",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-12-2024",
+        "tour_date": "02-19-2024",
         "description": "Explore the cultural heritage of Kuakata at the Kuakata Buddha Bihar, a Buddhist monastery overlooking the Bay of Bengal. Immerse yourself in the serenity of this spiritual sanctuary."
     },
     {
@@ -644,19 +455,13 @@
         "image": "https://i.ibb.co/M5g4p8r/Barisal-Skyline.jpg",
         "district": "Barguna",
         "destination": "Tengragiri Eco Park",
-        "duration": "1 day",
+        "duration": 1,
         "price": 70,
-        "highlights": [
-            "Nature trails",
-            "Bird watching"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-13",
-        "tour_date": "2024-02-20",
+        "highlights":
+            "Nature trails, Bird watching",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-13-2024",
+        "tour_date": "02-20-2024",
         "description": "Embark on a nature adventure at Tengragiri Eco Park, home to diverse flora and fauna. Explore nature trails, spot endemic bird species, and reconnect with nature."
     },
     {
@@ -665,19 +470,13 @@
         "image": "https://i.ibb.co/M5g4p8r/Barisal-Skyline.jpg",
         "district": "Barishal",
         "destination": "Floating Guava Market",
-        "duration": "1 day",
+        "duration": 1,
         "price": 60,
-        "highlights": [
-            "Visit unique market",
-            "Boat ride"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-14",
-        "tour_date": "2024-02-21",
+        "highlights":
+            "Visit unique market, Boat ride",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-14-2024",
+        "tour_date": "02-21-2024",
         "description": "Experience the vibrant culture of Barishal at the Floating Guava Market, a unique market where vendors sell fresh produce from boats. Enjoy a scenic boat ride and indulge in local delicacies."
     },
     {
@@ -686,19 +485,13 @@
         "image": "https://i.ibb.co/Tk4RTC1/Rangpur-Town-Hall-IMG-20241011-141548-840.jpg",
         "district": "Rangpur",
         "destination": "Tajhat Palace",
-        "duration": "1 day",
+        "duration": 1,
         "price": 50,
-        "highlights": [
-            "Explore historic palace",
-            "Architectural beauty"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-07",
-        "tour_date": "2024-02-14",
+        "highlights":
+            "Explore historic palace, Architectural beauty",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-07-2024",
+        "tour_date": "02-14-2024",
         "description": "Discover the grandeur of Tajhat Palace, a historic royal palace known for its architectural beauty and intricate design. Explore the palace grounds and learn about its rich history."
     },
     {
@@ -707,19 +500,13 @@
         "image": "https://i.ibb.co/Tk4RTC1/Rangpur-Town-Hall-IMG-20241011-141548-840.jpg",
         "district": "Rangpur",
         "destination": "Kellabandh Nilkuthi",
-        "duration": "1 day",
+        "duration": 1,
         "price": 60,
-        "highlights": [
-            "Visit colonial-era building",
-            "Historical exploration"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-08",
-        "tour_date": "2024-02-15",
+        "highlights":
+            "Visit colonial-era building, Historical exploration",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-08-2024",
+        "tour_date": "02-15-2024",
         "description": "Step back in time with a visit to Kellabandh Nilkuthi, a colonial-era building dating back to the British Raj. Explore the remnants of the tea estate and learn about its historical significance."
     },
     {
@@ -728,19 +515,13 @@
         "image": "https://i.ibb.co/Tk4RTC1/Rangpur-Town-Hall-IMG-20241011-141548-840.jpg",
         "district": "Dinajpur",
         "destination": "Kantanagar Temple",
-        "duration": "1 day",
+        "duration": 1,
         "price": 70,
-        "highlights": [
-            "Explore terracotta temple",
-            "Architectural marvel"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-09",
-        "tour_date": "2024-02-16",
+        "highlights":
+            "Explore terracotta temple, Architectural marvel",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-09-2024",
+        "tour_date": "02-16-2024",
         "description": "Discover the exquisite terracotta artwork of Kantanagar Temple, also known as Kantaji Temple, in Dinajpur. Marvel at the intricate designs and architectural marvels of this historic temple."
     },
     {
@@ -749,19 +530,13 @@
         "image": "https://i.ibb.co/Tk4RTC1/Rangpur-Town-Hall-IMG-20241011-141548-840.jpg",
         "district": "Dinajpur",
         "destination": "Kali Mandir",
-        "duration": "1 day",
+        "duration": 1,
         "price": 65,
-        "highlights": [
-            "Visit Hindu temple",
-            "Cultural exploration"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-10",
-        "tour_date": "2024-02-17",
+        "highlights":
+            "Visit Hindu temple, Cultural exploration",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-10-2024",
+        "tour_date": "02-17-2024",
         "description": "Experience the cultural heritage of Dinajpur with a visit to Kali Mandir, a revered Hindu temple dedicated to the goddess Kali. Immerse yourself in the spiritual ambiance of this sacred site."
     },
     {
@@ -770,19 +545,13 @@
         "image": "https://i.ibb.co/Tk4RTC1/Rangpur-Town-Hall-IMG-20241011-141548-840.jpg",
         "district": "Rangpur",
         "destination": "Sayedabad Tea Garden",
-        "duration": "1 day",
+        "duration": 1,
         "price": 80,
-        "highlights": [
-            "Tea garden tour",
-            "Scenic beauty"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-11",
-        "tour_date": "2024-02-18",
+        "highlights":
+            "Tea garden tour, Scenic beauty",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-11-2024",
+        "tour_date": "02-18-2024",
         "description": "Explore the lush greenery of Sayedabad Tea Garden and learn about the tea cultivation process. Enjoy scenic views of the tea plantations and savor a cup of freshly brewed tea."
     },
     {
@@ -791,19 +560,13 @@
         "image": "https://i.ibb.co/Tk4RTC1/Rangpur-Town-Hall-IMG-20241011-141548-840.jpg",
         "district": "Dinajpur",
         "destination": "Ramsagar National Park",
-        "duration": "1 day",
+        "duration": 1,
         "price": 75,
-        "highlights": [
-            "Picnic spot",
-            "Nature trails"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-12",
-        "tour_date": "2024-02-19",
+        "highlights":
+            "Picnic spot, Nature trails",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-12-2024",
+        "tour_date": "02-19-2024",
         "description": "Escape into nature at Ramsagar National Park, a picturesque picnic spot surrounded by lush greenery and serene lakes. Enjoy nature trails and wildlife sightings in this tranquil setting."
     },
     {
@@ -812,19 +575,13 @@
         "image": "https://i.ibb.co/Tk4RTC1/Rangpur-Town-Hall-IMG-20241011-141548-840.jpg",
         "district": "Rangpur",
         "destination": "Tajmahal of Bengal",
-        "duration": "1 day",
+        "duration": 1,
         "price": 85,
-        "highlights": [
-            "Architectural wonder",
-            "Historical site"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-13",
-        "tour_date": "2024-02-20",
+        "highlights":
+            "Architectural wonder, Historical site",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-13-2024",
+        "tour_date": "02-20-2024",
         "description": "Visit the Tajmahal of Bengal, a magnificent white marble structure reminiscent of the iconic Taj Mahal in India. Explore the architectural wonder and delve into its historical significance."
     },
     {
@@ -833,19 +590,13 @@
         "image": "https://i.ibb.co/Tk4RTC1/Rangpur-Town-Hall-IMG-20241011-141548-840.jpg",
         "district": "Kurigram",
         "destination": "Chilmari Char",
-        "duration": "1 day",
+        "duration": 1,
         "price": 90,
-        "highlights": [
-            "River island exploration",
-            "Local culture"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-14",
-        "tour_date": "2024-02-21",
+        "highlights":
+            "River island exploration, Local culture",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-14-2024",
+        "tour_date": "02-21-2024",
         "description": "Embark on an adventure to Chilmari Char, a scenic river island in Kurigram. Explore the island's unique ecosystem, interact with locals, and experience the vibrant culture of the region."
     },
     {
@@ -854,19 +605,13 @@
         "image": "https://i.ibb.co/gZMy6JY/Rajshahi-city-4.jpg",
         "district": "Rajshahi",
         "destination": "Puthia Temple Complex",
-        "duration": "1 day",
+        "duration": 1,
         "price": 50,
-        "highlights": [
-            "Explore historic temples",
-            "Architectural beauty"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-07",
-        "tour_date": "2024-02-14",
+        "highlights":
+            "Explore historic temples, Architectural beauty",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-07-2024",
+        "tour_date": "02-14-2024",
         "description": "Discover the architectural marvels of Puthia Temple Complex, home to a cluster of historic Hindu temples renowned for their intricate terracotta artwork and ornate designs."
     },
     {
@@ -875,19 +620,13 @@
         "image": "https://i.ibb.co/gZMy6JY/Rajshahi-city-4.jpg",
         "district": "Rajshahi",
         "destination": "Varendra Research Museum",
-        "duration": "1 day",
+        "duration": 1,
         "price": 60,
-        "highlights": [
-            "Explore archaeological artifacts",
-            "Historical exhibits"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-08",
-        "tour_date": "2024-02-15",
+        "highlights":
+            "Explore archaeological artifacts, Historical exhibits",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-08-2024",
+        "tour_date": "02-15-2024",
         "description": "Journey through history at Varendra Research Museum, one of the oldest museums in Bangladesh. Explore archaeological artifacts and historical exhibits dating back to ancient civilizations."
     },
     {
@@ -896,19 +635,13 @@
         "image": "https://i.ibb.co/gZMy6JY/Rajshahi-city-4.jpg",
         "district": "Bogra",
         "destination": "Mahasthangarh",
-        "duration": "1 day",
+        "duration": 1,
         "price": 70,
-        "highlights": [
-            "Visit ancient archaeological site",
-            "Historical exploration"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-09",
-        "tour_date": "2024-02-16",
+        "highlights":
+            "Visit ancient archaeological site, Historical exploration",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-09-2024",
+        "tour_date": "02-16-2024",
         "description": "Explore the ancient ruins of Mahasthangarh, an archaeological site dating back to the 3rd century BCE. Discover the remnants of ancient civilizations and uncover the secrets of Bangladesh's rich history."
     },
     {
@@ -917,19 +650,13 @@
         "image": "https://i.ibb.co/gZMy6JY/Rajshahi-city-4.jpg",
         "district": "Bogra",
         "destination": "Paharpur Buddhist Vihara",
-        "duration": "1 day",
+        "duration": 1,
         "price": 65,
-        "highlights": [
-            "Visit UNESCO World Heritage Site",
-            "Explore ancient monastery"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-10",
-        "tour_date": "2024-02-17",
+        "highlights":
+            "Visit UNESCO World Heritage Site, Explore ancient monastery",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-10-2024",
+        "tour_date": "02-17-2024",
         "description": "Step into the past with a visit to Paharpur Buddhist Vihara, a UNESCO World Heritage Site and one of the largest Buddhist monasteries in South Asia. Explore the ancient ruins and marvel at the architectural splendor."
     },
     {
@@ -938,19 +665,13 @@
         "image": "https://i.ibb.co/gZMy6JY/Rajshahi-city-4.jpg",
         "district": "Rajshahi",
         "destination": "Padma Garden",
-        "duration": "1 day",
+        "duration": 1,
         "price": 80,
-        "highlights": [
-            "Botanical garden",
-            "Scenic beauty"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-11",
-        "tour_date": "2024-02-18",
+        "highlights":
+            "Botanical garden, Scenic beauty",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-11-2024",
+        "tour_date": "02-18-2024",
         "description": "Escape into nature at Padma Garden, a sprawling botanical garden nestled amidst lush greenery. Stroll through vibrant floral displays, relax by tranquil ponds, and enjoy the serene ambiance."
     },
     {
@@ -959,19 +680,13 @@
         "image": "https://i.ibb.co/gZMy6JY/Rajshahi-city-4.jpg",
         "district": "Rajshahi",
         "destination": "Shah Makhdum Ruposhi Bangla Mosque",
-        "duration": "1 day",
+        "duration": 1,
         "price": 75,
-        "highlights": [
-            "Historic mosque",
-            "Architectural wonder"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-12",
-        "tour_date": "2024-02-19",
+        "highlights":
+            "Historic mosque, Architectural wonder",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-12-2024",
+        "tour_date": "02-19-2024",
         "description": "Visit the majestic Shah Makhdum Ruposhi Bangla Mosque, a historic mosque known for its impressive architecture and cultural significance. Explore the intricate designs and learn about its history."
     },
     {
@@ -980,19 +695,13 @@
         "image": "https://i.ibb.co/gZMy6JY/Rajshahi-city-4.jpg",
         "district": "Natore",
         "destination": "Hardinge Bridge",
-        "duration": "1 day",
+        "duration": 1,
         "price": 70,
-        "highlights": [
-            "Iconic railway bridge",
-            "Scenic views"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-13",
-        "tour_date": "2024-02-20",
+        "highlights":
+            "Iconic railway bridge, Scenic views",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-13-2024",
+        "tour_date": "02-20-2024",
         "description": "Experience the grandeur of Hardinge Bridge, an iconic railway bridge spanning the Padma River. Enjoy panoramic views of the river and surrounding landscapes from this architectural marvel."
     },
     {
@@ -1001,19 +710,13 @@
         "image": "https://i.ibb.co/gZMy6JY/Rajshahi-city-4.jpg",
         "district": "Pabna",
         "destination": "Kusumba Mosque",
-        "duration": "1 day",
+        "duration": 1,
         "price": 85,
-        "highlights": [
-            "Visit historic mosque",
-            "Architectural exploration"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-14",
-        "tour_date": "2024-02-21",
+        "highlights":
+            "Visit historic mosque, Architectural exploration",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-14-2024",
+        "tour_date": "02-21-2024",
         "description": "Explore the architectural beauty of Kusumba Mosque, a historic mosque dating back to the Mughal period. Marvel at the intricate terracotta ornamentation and learn about its cultural significance."
     },
     {
@@ -1022,20 +725,13 @@
         "image": "https://i.ibb.co/gvCQCzS/Shilpacharya-Zainul-Abedin-Sangrahashala-Mymensingh-770x420.jpg",
         "district": "Mymensingh",
         "destination": "Birishiri",
-        "duration": "2 days",
+        "duration": 2,
         "price": 200,
-        "highlights": [
-            "Explore riverine island",
-            "Scenic beauty"
-        ],
-        "includes": [
-            "Accommodation",
-            "Transportation",
-            "Guide",
-            "Meals"
-        ],
-        "booking_date": "2024-02-07",
-        "tour_date": "2024-02-14",
+        "highlights":
+            "Explore riverine island, Scenic beauty",
+        "includes": "Accommodation, Transportation, Guide, Meals",
+        "booking_date": "02-07-2024",
+        "tour_date": "02-14-2024",
         "description": "Experience the tranquil beauty of Birishiri, a riverine island nestled amidst the crystal-clear waters of the Dhanu River. Explore lush green landscapes, picturesque waterfalls, and vibrant tribal culture."
     },
     {
@@ -1044,19 +740,13 @@
         "image": "https://i.ibb.co/gvCQCzS/Shilpacharya-Zainul-Abedin-Sangrahashala-Mymensingh-770x420.jpg",
         "district": "Netrokona",
         "destination": "Madhupur National Park",
-        "duration": "1 day",
+        "duration": 1,
         "price": 100,
-        "highlights": [
-            "Wildlife safari",
-            "Nature trails"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-08",
-        "tour_date": "2024-02-15",
+        "highlights":
+            "Wildlife safari, Nature trails",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-08-2024",
+        "tour_date": "02-15-2024",
         "description": "Embark on a thrilling wildlife safari at Madhupur National Park, home to diverse flora and fauna. Explore nature trails, spot exotic wildlife, and immerse yourself in the beauty of the wilderness."
     },
     {
@@ -1065,19 +755,13 @@
         "image": "https://i.ibb.co/gvCQCzS/Shilpacharya-Zainul-Abedin-Sangrahashala-Mymensingh-770x420.jpg",
         "district": "Jamalpur",
         "destination": "Birishiri",
-        "duration": "1 day",
+        "duration": 1,
         "price": 80,
-        "highlights": [
-            "Scenic beauty",
-            "Riverfront picnic"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-09",
-        "tour_date": "2024-02-16",
+        "highlights":
+            "Scenic beauty, Riverfront picnic",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-09-2024",
+        "tour_date": "02-16-2024",
         "description": "Escape into nature at Birishiri, a picturesque destination on the banks of the Dhanu River. Enjoy scenic views, relax by the riverfront, and indulge in a delightful picnic amidst nature's beauty."
     },
     {
@@ -1086,19 +770,13 @@
         "image": "https://i.ibb.co/gvCQCzS/Shilpacharya-Zainul-Abedin-Sangrahashala-Mymensingh-770x420.jpg",
         "district": "Mymensingh",
         "destination": "Shashi Lodge",
-        "duration": "1 day",
+        "duration": 1,
         "price": 70,
-        "highlights": [
-            "Historic colonial building",
-            "Architectural exploration"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-10",
-        "tour_date": "2024-02-17",
+        "highlights":
+            "Historic colonial building, Architectural exploration",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-10-2024",
+        "tour_date": "02-17-2024",
         "description": "Explore the historic charm of Shashi Lodge, a colonial-era building in Mymensingh. Admire the architectural beauty and learn about its rich history dating back to the British Raj."
     },
     {
@@ -1107,19 +785,13 @@
         "image": "https://i.ibb.co/gvCQCzS/Shilpacharya-Zainul-Abedin-Sangrahashala-Mymensingh-770x420.jpg",
         "district": "Netrokona",
         "destination": "Birishiri",
-        "duration": "1 day",
+        "duration": 1,
         "price": 75,
-        "highlights": [
-            "Scenic boat ride",
-            "Tribal culture"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-11",
-        "tour_date": "2024-02-18",
+        "highlights":
+            "Scenic boat ride, Tribal culture",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-11-2024",
+        "tour_date": "02-18-2024",
         "description": "Embark on a scenic boat ride along the Dhanu River at Birishiri and immerse yourself in the beauty of the surrounding landscapes. Explore tribal villages and experience authentic tribal culture."
     },
     {
@@ -1128,20 +800,13 @@
         "image": "https://i.ibb.co/gvCQCzS/Shilpacharya-Zainul-Abedin-Sangrahashala-Mymensingh-770x420.jpg",
         "district": "Jamalpur",
         "destination": "Tanguar Haor",
-        "duration": "2 days",
+        "duration": 2,
         "price": 250,
-        "highlights": [
-            "Wetland ecosystem",
-            "Bird watching"
-        ],
-        "includes": [
-            "Accommodation",
-            "Transportation",
-            "Guide",
-            "Meals"
-        ],
-        "booking_date": "2024-02-12",
-        "tour_date": "2024-02-19",
+        "highlights":
+            "Wetland ecosystem, Bird watching",
+        "includes": "Accommodation, Transportation, Guide, Meals",
+        "booking_date": "02-12-2024",
+        "tour_date": "02-19-2024",
         "description": "Discover the natural wonders of Tanguar Haor, a unique wetland ecosystem renowned for its biodiversity. Explore tranquil waterways, spot migratory birds, and experience the serenity of the haor."
     },
     {
@@ -1150,19 +815,13 @@
         "image": "https://i.ibb.co/gvCQCzS/Shilpacharya-Zainul-Abedin-Sangrahashala-Mymensingh-770x420.jpg",
         "district": "Mymensingh",
         "destination": "Shilpacharya Zainul Abedin Museum",
-        "duration": "1 day",
+        "duration": 1,
         "price": 90,
-        "highlights": [
-            "Art museum",
-            "Exhibition of Zainul Abedin's works"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-13",
-        "tour_date": "2024-02-20",
+        "highlights":
+            "Art museum, Exhibition of Zainul Abedin's works",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-13-2024",
+        "tour_date": "02-20-2024",
         "description": "Immerse yourself in the world of art at Shilpacharya Zainul Abedin Museum, dedicated to the renowned Bangladeshi artist. Explore the museum's collection and admire Zainul Abedin's masterpieces."
     },
     {
@@ -1171,19 +830,13 @@
         "image": "https://i.ibb.co/gvCQCzS/Shilpacharya-Zainul-Abedin-Sangrahashala-Mymensingh-770x420.jpg",
         "district": "Netrokona",
         "destination": "Madhabpur Lake",
-        "duration": "1 day",
+        "duration": 1,
         "price": 80,
-        "highlights": [
-            "Scenic lake views",
-            "Boating"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-14",
-        "tour_date": "2024-02-21",
+        "highlights":
+            "Scenic lake view            Boating",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-14-2024",
+        "tour_date": "02-21-2024",
         "description": "Experience the tranquility of Madhabpur Lake, a serene oasis nestled amidst lush greenery in Netrokona. Enjoy scenic views of the lake, go boating, and unwind in nature's embrace."
     },
     {
@@ -1192,19 +845,13 @@
         "image": "https://i.ibb.co/5FTrWKp/2-Keane-Bridge-and-Ali-Amjad-s-Clock-Sylhet.png",
         "district": "Sylhet",
         "destination": "Ratargul Swamp Forest",
-        "duration": "1 day",
+        "duration": 1,
         "price": 50,
-        "highlights": [
-            "Boat ride through mangrove forest",
-            "Ecotourism experience"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-07",
-        "tour_date": "2024-02-14",
+        "highlights":
+            "Boat ride through mangrove forest, Ecotourism experience",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-07-2024",
+        "tour_date": "02-14-2024",
         "description": "Explore the mystical beauty of Ratargul Swamp Forest, the only freshwater swamp forest in Bangladesh. Cruise through tranquil waterways, surrounded by towering trees and vibrant biodiversity."
     },
     {
@@ -1213,19 +860,13 @@
         "image": "https://i.ibb.co/5FTrWKp/2-Keane-Bridge-and-Ali-Amjad-s-Clock-Sylhet.png",
         "district": "Sylhet",
         "destination": "Jaflong",
-        "duration": "1 day",
+        "duration": 1,
         "price": 60,
-        "highlights": [
-            "Scenic beauty",
-            "Stone collection"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-08",
-        "tour_date": "2024-02-15",
+        "highlights":
+            "Scenic beauty, Stone collection",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-08-2024",
+        "tour_date": "02-15-2024",
         "description": "Experience the breathtaking beauty of Jaflong, a picturesque destination nestled amidst the hills and rivers of Sylhet. Marvel at the crystal-clear waters, collect colorful stones, and enjoy the serene ambiance."
     },
     {
@@ -1234,19 +875,13 @@
         "image": "https://i.ibb.co/5FTrWKp/2-Keane-Bridge-and-Ali-Amjad-s-Clock-Sylhet.png",
         "district": "Sylhet",
         "destination": "Lalakhal",
-        "duration": "1 day",
+        "duration": 1,
         "price": 70,
-        "highlights": [
-            "Boat ride on Lalakhal River",
-            "Scenic landscapes"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-09",
-        "tour_date": "2024-02-16",
+        "highlights":
+            "Boat ride on Lalakhal River, Scenic landscapes",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-09-2024",
+        "tour_date": "02-16-2024",
         "description": "Embark on a mesmerizing boat ride on the emerald-green waters of Lalakhal River, surrounded by breathtaking landscapes of lush green hills and tea gardens. Experience the tranquility of nature at its best."
     },
     {
@@ -1255,19 +890,13 @@
         "image": "https://i.ibb.co/5FTrWKp/2-Keane-Bridge-and-Ali-Amjad-s-Clock-Sylhet.png",
         "district": "Sylhet",
         "destination": "Bisnakandi",
-        "duration": "1 day",
+        "duration": 1,
         "price": 65,
-        "highlights": [
-            "Scenic beauty",
-            "Waterfall visit"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-10",
-        "tour_date": "2024-02-17",
+        "highlights":
+            "Scenic beauty, Waterfall visit",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-10-2024",
+        "tour_date": "02-17-2024",
         "description": "Discover the enchanting beauty of Bisnakandi, a hidden gem nestled amidst rocky hills and cascading waterfalls. Immerse yourself in the serene ambiance and marvel at the natural wonders."
     },
     {
@@ -1276,19 +905,13 @@
         "image": "https://i.ibb.co/5FTrWKp/2-Keane-Bridge-and-Ali-Amjad-s-Clock-Sylhet.png",
         "district": "Moulvibazar",
         "destination": "Lawachara National Park",
-        "duration": "1 day",
+        "duration": 1,
         "price": 80,
-        "highlights": [
-            "Wildlife spotting",
-            "Nature trails"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-11",
-        "tour_date": "2024-02-18",
+        "highlights":
+            "Wildlife spotting, Nature trails",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-11-2024",
+        "tour_date": "02-18-2024",
         "description": "Embark on an adventure in Lawachara National Park, a biodiverse rainforest sanctuary home to rare wildlife species. Explore nature trails, spot exotic birds, and immerse yourself in the beauty of the forest."
     },
     {
@@ -1297,19 +920,13 @@
         "image": "https://i.ibb.co/5FTrWKp/2-Keane-Bridge-and-Ali-Amjad-s-Clock-Sylhet.png",
         "district": "Habiganj",
         "destination": "Satchari National Park",
-        "duration": "1 day",
+        "duration": 1,
         "price": 75,
-        "highlights": [
-            "Trekking in the rainforest",
-            "Waterfalls"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-12",
-        "tour_date": "2024-02-19",
+        "highlights":
+            "Trekking in the rainforest, Waterfalls",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-12-2024",
+        "tour_date": "02-19-2024",
         "description": "Embark on an exhilarating trekking adventure in Satchari National Park, a pristine rainforest reserve known for its scenic beauty and cascading waterfalls. Discover hidden gems amidst lush greenery."
     },
     {
@@ -1318,19 +935,13 @@
         "image": "https://i.ibb.co/5FTrWKp/2-Keane-Bridge-and-Ali-Amjad-s-Clock-Sylhet.png",
         "district": "Sylhet",
         "destination": "Tea Gardens",
-        "duration": "1 day",
+        "duration": 1,
         "price": 70,
-        "highlights": [
-            "Tea garden tour",
-            "Scenic landscapes"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-13",
-        "tour_date": "2024-02-20",
+        "highlights":
+            "Tea garden tour, Scenic landscapes",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-13-2024",
+        "tour_date": "02-20-2024",
         "description": "Explore the picturesque tea gardens of Sylhet and immerse yourself in the beauty of rolling hills covered in lush green tea bushes. Learn about the tea cultivation process and savor the serene ambiance."
     },
     {
@@ -1339,19 +950,13 @@
         "image": "https://i.ibb.co/5FTrWKp/2-Keane-Bridge-and-Ali-Amjad-s-Clock-Sylhet.png",
         "district": "Sylhet",
         "destination": "Shahi Eidgah",
-        "duration": "1 day",
+        "duration": 1,
         "price": 65,
-        "highlights": [
-            "Historic site",
-            "Architectural exploration"
-        ],
-        "includes": [
-            "Transportation",
-            "Guide",
-            "Lunch"
-        ],
-        "booking_date": "2024-02-14",
-        "tour_date": "2024-02-21",
+        "highlights":
+            "Historic site, Architectural exploration",
+        "includes": "Transportation, Guide, Lunch",
+        "booking_date": "02-14-2024",
+        "tour_date": "02-21-2024",
         "description": "Discover the historical significance of Shahi Eidgah, an ancient prayer ground in Sylhet with a rich cultural heritage. Explore the architectural marvels and delve into the history of the region."
     }
 ]

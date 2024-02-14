@@ -1,4 +1,3 @@
-import React from 'react';
 import { useForm } from "react-hook-form";
 import useAxiosSecure from '../../../hooks/useAxiosSecure';
 import Swal from 'sweetalert2';
@@ -27,8 +26,8 @@ const UpdateTour = () => {
         return <span className="loading loading-dots loading-lg"></span>;
     }
 
-    const { title, division, deadline, places, transportation, included_item, description, price, _id } = selectedTour;
-
+    const { _id, package_id, destination, division, district, duration, price, booking_date, highlights, tour_date, includes, description } = selectedTour;
+    console.log(includes);
     const onSubmit = async (data) => {
         console.log(data);
         const imageFile = { image: data.image[0] }
@@ -40,19 +39,22 @@ const UpdateTour = () => {
 
         if (res.data.data.display_url) {
             const tourInfo = {
-                title: data.title,
+                package_id: data.package_id,
+                destination: data.destination,
                 division: data.division,
+                district: data.district,
+                duration: data.duration,
                 price: parseFloat(data.price),
-                deadline: data.deadline,
-                places: data.places,
-                transportation: data.transportation,
-                included_item: data.included_item,
+                booking_date: data.booking_date,
+                highlights: data.highlights,
+                tour_date: data.tour_date,
+                includes: data.includes,
                 description: data.description,
                 image: res.data.data.display_url
             }
 
-            const testRes = await axios.patch(`http://localhost:4321/tour/${_id}`, tourInfo);
-            
+            const testRes = await axios.patch(`https://travel-beyond-server.vercel.app/tour/${_id}`, tourInfo);
+
             if (testRes.data.modifiedCount) {
                 Swal.fire("Tour event updated successfully");
                 reset();
@@ -74,43 +76,43 @@ const UpdateTour = () => {
                                 <div className='lg:flex lg:justify-evenly'>
                                     <div className="form-control">
                                         <label className="label">
+                                            <span className="label-text">Package No</span>
+                                        </label>
+                                        <input type="text" defaultValue={package_id} {...register("package_id")} placeholder="Package no" className="input input-bordered" />
+                                    </div>
+                                    <div className="form-control">
+                                        <label className="label">
                                             <span className="label-text">Full Name</span>
                                         </label>
-                                        <input type="text" defaultValue={title} {...register("title")} placeholder="Full Name" className="input input-bordered" />
+                                        <input type="text" defaultValue={destination} {...register("destination")} placeholder="Full Name" className="input input-bordered" />
                                     </div>
+                                </div>
+                                <div className='lg:flex lg:justify-evenly'>
                                     <div className="form-control">
                                         <label className="label">
                                             <span className="label-text">Division</span>
                                         </label>
                                         <input type="text" defaultValue={division} {...register("division")} placeholder="Enter Division" className="input input-bordered" />
                                     </div>
-                                </div>
-                                <div className='lg:flex lg:justify-evenly'>
                                     <div className="form-control">
                                         <label className="label">
-                                            <span className="label-text">Deadline</span>
+                                            <span className="label-text">District Name</span>
                                         </label>
-                                        <input type="date" defaultValue={deadline} {...register("deadline")} placeholder="Deadline" className="input input-bordered" />
-                                    </div>
-                                    <div className="form-control">
-                                        <label className="label">
-                                            <span className="label-text">Covered Places</span>
-                                        </label>
-                                        <input type="text" defaultValue={places} {...register("places")} placeholder="Type the names of places" className="input input-bordered" />
+                                        <input type="text" defaultValue={district} {...register("district")} placeholder="district" className="input input-bordered" />
                                     </div>
                                 </div>
                                 <div className='lg:flex lg:justify-evenly'>
                                     <div className="form-control">
                                         <label className="label">
-                                            <span className="label-text">Transportation</span>
+                                            <span className="label-text">Covered places</span>
                                         </label>
-                                        <input type="text" defaultValue={transportation} {...register("transportation")} placeholder="transportation" className="input input-bordered" />
+                                        <input type="text" defaultValue={highlights} {...register("highlights")} placeholder="Type the names of places" className="input input-bordered" />
                                     </div>
                                     <div className="form-control">
                                         <label className="label">
-                                            <span className="label-text">Included item</span>
+                                            <span className="label-text">Included Item</span>
                                         </label>
-                                        <input type="text" defaultValue={included_item} {...register("included_item")} placeholder="Included item" className="input input-bordered" />
+                                        <input defaultValue={includes} {...register("includes")} type="text" className="input input-bordered" />
                                     </div>
                                 </div>
                                 <div className='lg:flex lg:justify-evenly'>
@@ -122,12 +124,32 @@ const UpdateTour = () => {
                                     </div>
                                     <div className="form-control">
                                         <label className="label">
-                                            <span className="label-text">Full Name</span>
+                                            <span className="label-text">Tour duration</span>
                                         </label>
-                                        <input {...register("image")} type="file" className="file-input file-input-bordered w-full max-w-xs" />
+                                        <input type="text" defaultValue={duration} {...register("duration")} placeholder="transportation" className="input input-bordered" />
                                     </div>
                                 </div>
-                                <div className="form-control">
+                                <div className='lg:flex lg:justify-evenly'>
+                                    <div className="form-control">
+                                        <label className="label">
+                                            <span className="label-text">Tour date</span>
+                                        </label>
+                                        <input type="date" defaultValue={tour_date} {...register("tour_date")} placeholder="Tour price" className="input input-bordered" />
+                                    </div>
+                                    <div className="form-control">
+                                        <label className="label">
+                                            <span className="label-text">Booking Date</span>
+                                        </label>
+                                        <input type="date" defaultValue={booking_date} {...register("booking_date")} placeholder="Include Booking Date" className="input input-bordered" />
+                                    </div>
+                                </div>
+                                <div className="form-control w-3/5 mx-auto">
+                                    <label className="label">
+                                        <span className="label-text">Image</span>
+                                    </label>
+                                    <input {...register("image")} type="file" className="file-input file-input-bordered w-full max-w-md" />
+                                </div>
+                                <div className="form-control w-4/5 mx-auto">
                                     <label className="label">
                                         <span className="label-text">Tour Description</span>
                                     </label>

@@ -1,4 +1,3 @@
-import React from 'react';
 import useAxiosSecure from '../../../hooks/useAxiosSecure';
 import { useQuery } from '@tanstack/react-query';
 import { CiEdit } from "react-icons/ci";
@@ -54,7 +53,7 @@ const ManageTour = () => {
                         <div className="card-body">
                             <h2 className="card-title">{tour.title}</h2>
                             <h1><span className='text-lg font-semibold'>Division:</span> {tour.division}</h1>
-                            <h3><span className='text-lg font-semibold'>Deadline: </span>{tour.deadline}</h3>
+                            <h3><span className='text-lg font-semibold'>Deadline: </span>{tour.booking_date}</h3>
                             <h4><span className='text-lg font-semibold'>Price:</span> {tour.price}</h4>
                         </div>
                         <div className='gap-10 flex justify-center lg:flex-col'><Link to={`/dashboard/updateTour/${tour._id}`}>

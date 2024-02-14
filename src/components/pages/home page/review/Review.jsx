@@ -18,8 +18,6 @@ const Review = () => {
         return <span className="loading loading-dots loading-lg"></span>;
     }
 
-    console.log(review);
-
     return (
         <div>
             {

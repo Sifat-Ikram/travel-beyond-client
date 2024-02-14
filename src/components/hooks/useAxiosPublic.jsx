@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosPublic = axios.create({
-    baseURL: "http://localhost:4321/"
+    baseURL: "https://travel-beyond-server.vercel.app"
 })
 
 const useAxiosPublic = () => {
