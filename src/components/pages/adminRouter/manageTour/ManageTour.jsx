@@ -46,7 +46,7 @@ const ManageTour = () => {
     return (
         <div className='w-5/6 mx-auto space-y-4 mt-10'>
             <h1 className='text-5xl font-bold'>Manage Tours</h1>
-            <div className='grid lg:grid-cols-2 grid-cols-1 gap-5'>
+            <div className='grid md:grid-cols-2 grid-cols-1 gap-5'>
                 {
                     tours.map(tour => <div key={tour._id} className="card lg:card-side items-center bg-base-100 shadow-xl">
                         <figure><img src={tour.image} className='w-60 h-60' alt="Album" /></figure>

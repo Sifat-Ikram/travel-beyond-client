@@ -53,7 +53,7 @@ const UpdateTour = () => {
                 image: res.data.data.display_url
             }
 
-            const testRes = await axios.patch(`https://travel-beyond-server.vercel.app/tour/${_id}`, tourInfo);
+            const testRes = await axiosSecure.patch(`/tour/${_id}`, tourInfo);
 
             if (testRes.data.modifiedCount) {
                 Swal.fire("Tour event updated successfully");

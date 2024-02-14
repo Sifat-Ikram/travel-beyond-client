@@ -23,18 +23,14 @@ const TourDetails = () => {
         return <span className="loading loading-dots loading-lg"></span>
     }
 
-    const filteredTour = tours.filter(tour => tour._id === id);
+    const filteredTour = tours.find(tour => tour._id === id);
 
     if (!filteredTour) {
         return <span className="loading loading-dots loading-lg"></span>
     }
 
-
-    const { destination, district, duration, package_id, description, tour_date, booking_date, division, image, price, highlights, includes } = filteredTour[0];
-
-    const includesString = includes.join(', ');
-    const highlightsString = highlights.join(', ');
-
+    console.log(filteredTour);
+    const { destination, district, duration, package_id, description, tour_date, booking_date, division, image, price, highlights, includes } = filteredTour;
     const handleApply = () => {
         if (user && user.email) {
 
@@ -49,9 +45,7 @@ const TourDetails = () => {
                 tour_date: tour_date,
                 booking_date: booking_date,
                 image: image,
-                price: price,
-                highlights: highlightsString,
-                includes: includesString
+                price: price
             }
             Swal.fire({
                 title: "Are you sure, you want to book this package?",
@@ -108,21 +102,9 @@ const TourDetails = () => {
                 <div className='space-y-5'>
                     <h1> <span className='font-bold'>Division: </span>{division} </h1>
                     <h1> <span className='font-bold'>Last Booking date: </span> {booking_date} </h1>
-                    <h1> <span className='font-bold'>Places: </span>
-                        <ul>
-                            {highlights.map((place, index) => (
-                                <li key={index}>{place}</li>
-                            ))}
-                        </ul>
-                    </h1>
+                    <h1> <span className='font-bold'>Places to visit: {highlights}</span></h1>
                     <h1> <span className='font-bold'>Price: </span>${price} Taka</h1>
-                    <h1> <span className='font-bold'>Includes: </span>
-                        <ul>
-                            {includes.map((place, index) => (
-                                <li key={index}>{place}</li>
-                            ))}
-                        </ul>
-                    </h1>
+                    <h1> <span className='font-bold'>Included: {includes} </span></h1>
                     <h1> <span className='font-bold'>Tour Details: </span>{description} </h1>
                 </div>
                 <div className='flex justify-end'>
